@@ -1748,7 +1748,7 @@
                 "type": "act_back",
                 "name": "R\u00fcckw\u00e4rts fortfahren",
                 "victory": "",
-                "text": "<blockquote>Langsam erkennst du Muster in den Verzerrungen, die \u00fcber Arkham hinwegziehen. Es gibt Momente, in denen die Grenzen zwischen den beiden Welten schw\u00e4cher werden. Du verbringst einige Zeit damit, den Rhythmus und die Eigenarten der Verzerrungen zu lernen, bevor du zum verlassenen Haus zur\u00fcckkehrst. Mit dem richtigen Timing springst du vorw\u00e4rts, als sich die Oberfl\u00e4che des Spiegels kr\u00e4uselt, und du durchquerst ihn vollst\u00e4ndig, als w\u00fcrdest du durch Wasser tauchen.</blockquote>\n(<resolution><b>A2</b>)",
+                "text": "<blockquote>Langsam erkennst du Muster in den Verzerrungen, die \u00fcber Arkham hinwegziehen. Es gibt Momente, in denen die Grenzen zwischen den beiden Welten schw\u00e4cher werden. Du verbringst einige Zeit damit, den Rhythmus und die Eigenarten der Ver-<br>zerrungen zu lernen, bevor du zum verlassenen Haus zur\u00fcck-<br>kehrst. Mit dem richtigen Timing springst du vorw\u00e4rts, als sich die Oberfl\u00e4che des Spiegels kr\u00e4uselt, und du durchquerst ihn vollst\u00e4ndig, als w\u00fcrdest du durch Wasser tauchen.</blockquote>\n(<resolution><b>A2</b>)",
                 "index": "3b"
             },
             "encounter_number": "6",
@@ -1761,7 +1761,7 @@
             "front": {
                 "type": "agenda",
                 "text": "",
-                "flavor_text": "Seltsame Wellen der Verzerrung schwappen \u00fcber Arkham und st\u00fcrzen es ins heillose Chaos. Die Stadt wird rasch verzerrt und verschmilzt mit dem Wunderland aus Alices Tr\u00e4umen. Geb\u00e4ude und Wahrzeichen verzerren sich zu ungewohnten Formen, w\u00e4hrend die Menschen, die das Pech haben, von diesen Wellen erfasst zu werden, ebenfalls verzerrt werden. Du hoffst, dass du einen Weg findest, diese Ver\u00e4nderungen aufzuhalten oder umzukehren, bevor du selbst von den Geschehnissen verwandelt wirst.",
+                "flavor_text": "Seltsame Wellen der Verzerrung schwappen \u00fcber Arkham und st\u00fcrzen es ins heillose Chaos. Die Stadt wird rasch verzerrt und verschmilzt mit dem Wunderland aus Alices Tr\u00e4umen. Geb\u00e4ude und Wahr-<br>zeichen verzerren sich zu ungewohnten Formen, w\u00e4hrend die Menschen, die das Pech haben, von diesen Wellen erfasst zu werden, ebenfalls verzerrt werden. Du hoffst, dass du einen Weg findest, diese Ver\u00e4nderungen aufzuhalten oder um-<br>zukehren, bevor du selbst von den Geschehnissen verwandelt wirst.",
                 "illustration": "./images/expanded_images/Miscellaneous - Erik Johansson 1.jpg",
                 "doom": "3",
                 "index": "1a",
@@ -1842,7 +1842,7 @@
                     "square"
                 ],
                 "illustrator": "Illus. Mark Molnar",
-                "flavor_text": "Das Sanatorium hat nicht den besten Ruf, was die<br>Heilung seiner Patienten angeht. Du hoffst, dass du<br>Alice hier nicht lange zur\u00fccklassen musst.",
+                "flavor_text": "Das Sanatorium hat nicht den besten Ruf, was die<br>Heilung seiner Patienten angeht. Du hoffst, dass du Alice hier nicht lange zur\u00fccklassen musst.",
                 "illustration_pan_y": 100.0,
                 "collection_number": "<exn>a"
             },
@@ -1972,7 +1972,7 @@
                 "subtitle": "Sonderausgabe im Druck",
                 "traits": "Arkham. Nordstadt.",
                 "text": "<act>: Ziehe 2 Karten. (Nur ein Mal pro Zug.)",
-                "flavor_text": "Die Redaktion des Arkham Advertiser arbeitet fieberhaft daran, die seltsamen Ereignisse zu katalogisieren, die \u00fcber Arkham hereinbrechen. Nur wenige ihrer <br>Reporter sind mit Informationen zur\u00fcckgekehrt.",
+                "flavor_text": "Die Redaktion des Arkham Advertiser arbeitet fieberhaft daran, die seltsamen Ereignisse zu katalogisieren, die \u00fcber Arkham hereinbrechen. <br>Nur wenige ihrer Reporter sind mit Informationen zur\u00fcckgekehrt.",
                 "victory": "",
                 "illustration": "./images/expanded_images/Newspaper - Rowena Wang.jpg",
                 "clues": "1<per>",
@@ -1993,7 +1993,7 @@
                 "illustration": "./images/expanded_images/Newspaper - Rowena Wang & Mike Savad.jpg",
                 "illustrator": "Illus. Rowena Wang & Mike Savad",
                 "name": "Arkham Advertiser",
-                "subtitle": "Unregelm\u00e4\u00dfige \u00d6ffnungszeiten",
+                "subtitle": "<size 60>Unregelm\u00e4\u00dfige \u00d6ffnungszeiten",
                 "traits": "Arkham. Nordstadt. Wunderland.",
                 "text": "Solange du dich im <name> befindest, kannst du keine Karten ziehen.",
                 "flavor_text": "Der schachbrettartige Boden des Zeitungsb\u00fcros biegt und windet sich um dich herum, w\u00e4hrend drehende Schachfiguren in chaotischen, aber gezielten Bewegungen hin und her gleiten.",
@@ -2023,7 +2023,7 @@
                 "subtitle": "Skurriles zu Schn\u00e4ppchenpreisen",
                 "traits": "Arkham. Nordstadt.",
                 "text": "<act> Gib 1 Ressource aus: Durchsuche die<br>obersten 6 Karten deines Decks nach einer <t>Gegenstand-</t> oder <t>Zauber-</t>Karte und ziehe sie. Mische dein Deck.",
-                "flavor_text": "Der Laden f\u00fcr gew\u00f6hnliche Kuriosit\u00e4ten wirkt fast wie ein Teil der verr\u00fcckten Verwandlungen drau\u00dfen.<br>Im Laden ist es still, bis auf das ged\u00e4mpfte Ticken einer Uhr auf Oliver Thomas' Schreibtisch.",
+                "flavor_text": "Der Laden f\u00fcr gew\u00f6hnliche Kuriosit\u00e4ten wirkt fast wie ein Teil der verr\u00fcckten Verwandlungen drau\u00dfen. Im Laden ist es still, bis auf das ged\u00e4mpfte Ticken einer Uhr auf Oliver Thomas' Schreibtisch.",
                 "victory": "Sieg 1.",
                 "illustration": "./images/expanded_images/Curiositie Shoppe - Anthony Devine.jpg",
                 "clues": "1<per>",
@@ -2183,7 +2183,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Chronophobes Karnickel",
                 "traits": "Wunderland. Kreatur. Wanderer.",
-                "text": "<for> Am Ende der Runde: Bewege das Kaninchen zum n\u00e4chstgelegenen Ort, an dem sich kein Ermittler befindet.\n<reaction> Wenn du den Ort betrittst, an dem sich das Kaninchen befindet: Lege eine <int>- oder <agi>-Probe (4) ab. Du darfst eine beliebige Anzahl an Hinweisen ausgeben, um f\u00fcr jeden so ausgegebenen Hinweis +2 auf deinen Fertigkeitswert f\u00fcr diese Probe zu erhalten. Falls die Probe gelingt, platziere 1 Hinweis aus dem Vorrat auf der aktuellen Szene. Bewege in jedem Fall das Kaninchen zum n\u00e4chstgelegenen Ort, an dem sich kein Ermittler befindet.",
+                "text": "<for> Am Ende der Runde: Bewege <name> zum n\u00e4chstgelegenen Ort, an dem sich kein Ermittler befindet.\n<reaction> Wenn du den Ort betrittst, an dem sich das Kaninchen befindet: Lege eine <int>- oder <agi>-Probe (4) ab. Du darfst eine beliebige Anzahl an Hinweisen ausgeben, um f\u00fcr jeden so ausgegebenen Hinweis +2 auf deinen Fertigkeitswert f\u00fcr diese Probe zu erhalten. Falls die Probe gelingt, platziere 1 Hinweis aus dem Vorrat auf der aktuellen Szene. Bewege in jedem Fall das Kaninchen zum n\u00e4chstgelegenen Ort, an dem sich kein Ermittler befindet.",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
@@ -2229,7 +2229,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Paradox.",
-                "text": "<rev> Wenn keine Kopie von <name> an deinem Ort angeh\u00e4ngt ist, h\u00e4nge Verzerrender <br>Einfluss an deinen Ort an. Ansonsten erh\u00e4lt diese Karte<br> Nachr\u00fcsten.\nErmittler an dem Ort, an den diese Karte angeh\u00e4ngt ist, tauschen den Grundwert ihrer <willpower> und <int>, und den Grundwert ihrer <com> und <agi>.\n<action> Nimm 1 Schaden: Lege <name> ab.",
+                "text": "<rev> Wenn keine Kopie von <name> an deinem Ort angeh\u00e4ngt ist, h\u00e4nge Ver-<br>zerrender Einfluss an deinen Ort an. Ansonsten erh\u00e4lt diese Karte Nachr\u00fcsten.\nErmittler an dem Ort, an den diese Karte angeh\u00e4ngt ist, tauschen den Grundwert ihrer <willpower> und <int>, und den Grundwert ihrer <com> und <agi>.\n<action> Nimm 1 Schaden: Lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Miscellaneous - Shannon Tucker.jpg",
@@ -2282,7 +2282,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Gespiegelte Gedichte",
                 "traits": "Wunderland. Gegenstand. Buch.",
-                "text": "Anwendungen (4 Gedichte). Falls <name> keine Gedichte hat, lege diese Karte ab.\n<free> Ersch\u00f6pfe <name> und gib 1 Gedicht aus: Du bekommst f\u00fcr diese Fertigkeitsprobe +2 <willpower> oder +2 <int>.",
+                "text": "Anwendungen (4 Gedichte). Falls <name> keine Gedichte hat, lege diese Karte ab.\n<free> Ersch\u00f6pfe <name> und gib 1 Gedicht aus: Du bekommst f\u00fcr diese Fertigkeitsprobe +2 <willpower> oder <br>+2 <int>.",
                 "flavor_text": "Das Heft enth\u00e4lt einige seltsame, aber aufschlussreiche Gedichte, die alle komplett r\u00fcckw\u00e4rts geschrieben sind.",
                 "victory": "",
                 "classes": [
@@ -2376,8 +2376,9 @@
                 "type": "act_back",
                 "name": "Auf dem Trockenen sitzen",
                 "victory": "",
-                "text": "<blockquote>Alles, was du hast, wirfst du auf das wilde Monster, um es zur\u00fcck zu schlagen. Nach grauenvollen Minuten wird die schattenhafte Kreatur instabil und l\u00f6st sich mit einem hohlen Schrei auf. Bill, die Eidechse, verl\u00e4sst der Mut. Mit einem panischen Jaulen flieht er vor dem schrecklichen Todesr\u00f6cheln des Schattens und l\u00e4sst dich mit der verblassenden Gestalt alleine.</blockquote>\n(<b><resolution>A2</b>)",
-                "index": "3b"
+                "text": "(<b><resolution>A2</b>)",
+                "index": "3b",
+                "flavor_text": "Alles, was du hast, wirfst du auf das wilde Monster, um es zur\u00fcck zu schlagen. Nach grauenvollen Minuten wird die schattenhafte Kreatur instabil und l\u00f6st sich mit einem hohlen Schrei auf. Bill, die Eidechse, verl\u00e4sst der Mut. Mit einem panischen Jaulen flieht er vor dem schrecklichen Todesr\u00f6cheln des Schattens und l\u00e4sst dich mit der verblassenden Gestalt alleine."
             },
             "encounter_number": "6",
             "project_number": "27",
@@ -2390,7 +2391,7 @@
             "front": {
                 "type": "agenda",
                 "text": "",
-                "flavor_text": "Das leise Rauschen der Wellen am Strand tr\u00e4gt wenig dazu bei, das Gef\u00fchl der Vorahnung zu beruhigen. Schatten wabern in jeder Welle und lassen dich z\u00f6gern, auf der Suche nach der Wahr-<br>heit in die Brandung zu gehen.",
+                "flavor_text": "Das leise Rauschen der Wellen am Strand tr\u00e4gt wenig dazu bei, das Gef\u00fchl der Vor-<br>ahnung zu beruhigen. Schatten wabern in jeder Welle und lassen dich z\u00f6gern, auf der Suche nach der Wahrheit in die Bran-<br>dung zu gehen.",
                 "illustration": "./images/expanded_images/Sea of Tears - Zdzis\u0142aw Beksi\u0144ski.jpg",
                 "doom": "5",
                 "index": "1a",
@@ -2402,7 +2403,7 @@
                 "type": "agenda_back",
                 "name": "Das Walross und der Zimmermann",
                 "victory": "",
-                "text": "Bringe den beiseitegelegten Gegner Das Walross am Gezeitent\u00fcmpel ins Spiel.\nBringe den beiseitegelegten Gegner Der Zimmermann am Haus des Wei\u00dfen Kaninchens ins Spiel.\nDer Rest des beiseitegelegten Begegnungssets <i>Walross und Zimmermann</i> wird zusammen mit dem Begegnungs-Ablagestapel ins Begegnungsdeck gemischt.",
+                "text": "Bringe den beiseitegelegten Gegner Das Walross am Gezeiten-<br>t\u00fcmpel ins Spiel.\nBringe den beiseitegelegten Gegner Der Zimmermann am Haus des Wei\u00dfen Kaninchens ins Spiel.\nDer Rest des beiseitegelegten Begegnungssets <i>Walross und Zimmermann</i> wird zusammen mit dem Begegnungs-Ablagestapel ins Begegnungsdeck gemischt.",
                 "flavor_text": "\u201eProbleme mit dem alten Landhaus?\u201d Ein uninteressierter Zimmer-<br>mann n\u00e4hert sich dem Wei\u00dfen Kaninchen und seinem teilweise zerst\u00f6rten Haus und wirft beiden nur einen kurzen Blick zu.\n\u201eJa, ja, beeilen Sie sich!\u201d, fleht das Kaninchen und tippt mit dem Fu\u00df.\n\u201eImmer mit der Ruhe, Boss\u201c, erwidert der Zimmermann und reibt sich den Bauch, \u201eder Job ist so gut wie erledigt, aber ich bin ein bisschen hungrig. Ich komme wieder, sobald ich einen Happen gegessen habe.\u201c\nWeiter unten an der felsigen K\u00fcste erhebt sich ein riesiges Walross aus der Brandung. Sein Magen knurrt wie ein Erdbeben, w\u00e4hrend es \u00fcber das Meer der Tr\u00e4nen blickt. \u201eLebensmittel gibt es in H\u00fclle und F\u00fclle. Ein Austernessen scheint die einzige L\u00f6sung zu sein\u201d, grummelt es vor sich hin.",
                 "index": "1b"
             },
@@ -2575,7 +2576,7 @@
                 "name": "<name>",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "<valign>Es w\u00e4re gro\u00dfartig, wenn das alles wegger\u00e4umt w\u00e4re.",
+                "flavor_text": "<valign>Es w\u00e4re gro\u00dfartig,<br> wenn das alles wegger\u00e4umt w\u00e4re.",
                 "connection": "<copy>",
                 "connections": [
                     "hourglass",
@@ -2667,7 +2668,7 @@
                 "name": "<name>",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "<valign>Ein Felsvorsprung ragt aus dem Meer der<br>Tr\u00e4nen heraus, aber die Flut sp\u00fclt immer noch<br>Muscheln den halben Felsen hinauf.",
+                "flavor_text": "<valign>Ein Felsvorsprung ragt aus dem Meer der<br>Tr\u00e4nen heraus, aber die Flut sp\u00fclt immer noch Muscheln den halben Felsen hinauf.",
                 "connection": "<copy>",
                 "illustration": "./images/expanded_images/Miscellaneous - Alex van der Linde.jpg",
                 "collection_icon": "<exi>",
@@ -2684,7 +2685,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. K\u00fcste.",
-                "text": "<valign>An diesem Ort k\u00f6nnen sich maximal 6 Austern befinden.\n<reaction> Nachdem du an diesem Ort einen Gegner besiegt hast: Lege X Austern auf diesen Ort, wobei X die Ausdauer des Gegners minus 1 ist (Minimum 1).\n\n",
+                "text": "<valign>An diesem Ort k\u00f6nnen sich maximal 6 Austern befinden.\n<reaction> Nachdem du an diesem Ort einen Gegner be-<br>siegt hast: Lege X Austern auf diesen Ort, wobei X die Ausdauer des Gegners minus 1 ist (Minimum 1).\n",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Environment - Alex van der Linde 13.jpg",
@@ -2754,7 +2755,7 @@
                 "text": "",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "flavor_text": "<valign>Die Korallen in diesem Teil der K\u00fcste<br>schl\u00e4ngeln sich in komplizierten Schleifen um sich selbst herum, die kaum m\u00f6glich erscheinen.",
+                "flavor_text": "<valign>Die Korallen in diesem Teil der K\u00fcste schl\u00e4ngeln sich in komplizierten Schleifen um sich selbst herum, die kaum m\u00f6glich erscheinen.",
                 "illustration": "./images/expanded_images/Environment - Sandra Winther 1.jpg",
                 "collection_icon": "<exi>",
                 "collection_number": ""
@@ -2803,7 +2804,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Schlaues Schalentier",
                 "traits": "Wunderland. Kreatur. Verb\u00fcndeter.",
-                "text": "<reaction> Ersch\u00f6pfe w\u00e4hrend einer Fertigkeitsprobe Die \u00c4lteste Auster: Du bekommst +X auf den Fertigkeits-<br>wert dieser Probe. X ist die Anzahl an Austern an deinem Ort. Jeder Ermittler am Ort von <name> darf diese F\u00e4higkeit aktivieren.",
+                "text": "<reaction> Ersch\u00f6pfe w\u00e4hrend einer Fertigkeitsprobe Die \u00c4lteste Auster: Du bekommst +X auf den Fertigkeitswert dieser Probe. X ist die Anzahl an Austern an deinem Ort. Jeder Ermittler am Ort von <name> darf diese F\u00e4higkeit<br> aktivieren.",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
@@ -2831,7 +2832,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Riesiges Raubtier",
                 "traits": "Abscheulichkeit. Schatten. Elite.",
-                "text": "J\u00e4ger. Gewaltig.\n<for> Nachdem <name> erfolgreich angegriffen worden ist: <name> erh\u00e4lt +1 Kampf bis zum Ende der Runde.",
+                "text": "J\u00e4ger. Gewaltig.\n<for> Nachdem <name> erfolgreich angegriffen worden ist: <name> erh\u00e4lt <br>+1 Kampf bis zum Ende der Runde.",
                 "health": "4<per>",
                 "evade": "3",
                 "attack": "1",
@@ -2862,7 +2863,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "M\u00e4chtiger M\u00f6rder",
                 "traits": "Abscheulichkeit. Schatten. Elite.",
-                "text": "J\u00e4ger. Gewaltig.\n<for> Nachdem <name> erfolgreich angegriffen worden ist: <name> erh\u00e4lt +1 Kampf bis zum Ende der Runde.",
+                "text": "J\u00e4ger. Gewaltig.\n<for> Nachdem <name> erfolgreich angegriffen worden ist: <name> erh\u00e4lt <br>+1 Kampf bis zum Ende der Runde.",
                 "health": "5<per>",
                 "evade": "4",
                 "attack": "2",
@@ -2938,7 +2939,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Abscheulichkeit. Schatten.",
-                "text": "<spawn> Beliebiger <t>K\u00fcste</t>-Ort. \nJ\u00e4ger.\nBill, die Eidechse kann nicht an den Ort von <name> bewegt werden.\n<for> Nachdem <name> einen Ort betreten hat: Falls Bill, die Eidechse an diesem Ort ist, bewege Bill, die Eidechse an den verbundenen <br>Ort mit dem niedrigsten Schleierwert.",
+                "text": "<spawn> Beliebiger <t>K\u00fcste</t>-Ort. \nJ\u00e4ger.\nBill, die Eidechse kann nicht an den Ort von <name> bewegt werden.\n<for> Nachdem <name> einen Ort betreten hat: Falls Bill, die Eidechse an diesem Ort ist, bewege Bill, die Eidechse an den verbundenen Ort mit dem niedrigsten Schleierwert.",
                 "health": "4",
                 "evade": "2",
                 "attack": "3",
@@ -2968,7 +2969,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Wunderland. Kreatur.",
-                "text": "<spawn> Beliebiger <t>K\u00fcste</t>-Ort. \nJ\u00e4ger.\nFalls sich 3 oder mehr Austern am Ort des Salzwasser-<br>krokodils befinden, erh\u00e4lt es +1 Kampf und +1 Schaden.<br>",
+                "text": "<spawn> Beliebiger <t>K\u00fcste</t>-Ort. \nJ\u00e4ger.\nFalls sich 3 oder mehr Austern am Ort des Salzwasser-<br>krokodils befinden, erh\u00e4lt es +1 Kampf und +1 Schaden.",
                 "health": "2",
                 "evade": "4",
                 "attack": "3",
@@ -3136,8 +3137,8 @@
                 "type": "act_back",
                 "name": "Tee und Sympathie",
                 "victory": "",
-                "text": "<blockquote>Du findest die eine Tasse Tee, die ein viel angenehmeres Aroma hat als die anderen, und h\u00e4ltst sie der Haselmaus vor die Nase. Zuerst regt sie sich leicht, dann erwacht sie pl\u00f6tzlich mit einem lauten Keuchen. Panik ergreift sie, bis sie sieht, dass du besorgt auf sie herabschaust. \u201eDu bist... du bist hier, um zu helfen...?\u201d, fragt sie dich mit einem Zittern in der Stimme. Du nickst, und sie nickt schnell zur\u00fcck. \u201eEndlich Hilfe... gut, gut. Die Dinger machen Jagd auf Tr\u00e4ume, sogar innerhalb eines Traums. Wenn du einschl\u00e4fst, bist du leichte Beute. Wir m\u00fcssen diese Schatten verjagen, indem wir den Tisch und die St\u00fchle wieder im Wunderland verankern.\u201d</blockquote>",
-                "index": "2b"
+                "index": "2b",
+                "flavor_text": "Du findest die eine Tasse Tee, die ein viel angenehmeres Aroma hat als die anderen, und h\u00e4ltst sie der Haselmaus vor die Nase. Zuerst regt sie sich leicht, dann erwacht sie pl\u00f6tzlich mit einem lauten Keuchen. Panik ergreift sie, bis sie sieht, dass du besorgt auf sie herabschaust. \u201eDu bist... du bist hier, um zu helfen...?\u201d, fragt sie dich mit einem Zittern in der Stimme. Du nickst, und sie nickt schnell zur\u00fcck. \u201eEndlich Hilfe... gut, gut. Die Dinger machen Jagd auf Tr\u00e4ume, sogar innerhalb eines Traums. Wenn du einschl\u00e4fst, bist du leichte Beute. Wir m\u00fcssen diese Schatten verjagen, indem wir den Tisch und die St\u00fchle wieder im Wunderland verankern.\u201d"
             },
             "encounter_number": "10",
             "project_number": "56",
@@ -3162,7 +3163,7 @@
                 "type": "act_back",
                 "name": "In der Fantasie verwurzelt",
                 "victory": "",
-                "text": "<blockquote>Du versuchst, deine Erinnerungen an deine bisherigen Abenteuer im Wunderland in die St\u00fchle zu lenken. Jedes Bild, das du heraufbeschw\u00f6rst, und jedes Ereignis, das du wiederholst, scheint einen kleinen Fleck der Dunkelheit unter dem Sitz zu vertreiben. Du gehst um den Tisch herum, bis ein Ring aus Gras die Teegesellschaft umgibt. Wie durchtrennt ziehen sich die Schatten zur\u00fcck, und langsam kehrt der Garten des Hasen zur\u00fcck.</blockquote>\nFalls die aktuelle c-Agenda \u201eDie verr\u00fcckte Teegesellschaft\u201d ist, (<b><resolution>A2</b>).\nFalls die aktuelle c-Agenda \u201eDer verr\u00fcckte M\u00e4rzhase\u201d ist,       (<b><resolution>A3</b>).\nFalls die aktuelle c-Agenda \u201eDer verr\u00fcckte Hutmacher\u201d ist,   (<b><resolution>A4</b>).\nFalls die aktuelle c-Agenda \u201eEine ausufernde Teegesellschaft\u201d ist, (<b><resolution>A5</b>).",
+                "text": "<blockquote>Du versuchst, deine Erinnerungen an deine bisherigen Abenteuer im Wunderland in die St\u00fchle zu lenken. Jedes Bild, das du heraufbeschw\u00f6rst, und jedes Ereignis, das du wiederholst, scheint einen kleinen Fleck der Dunkelheit unter dem Sitz zu vertreiben. Du gehst um den Tisch herum, bis ein Ring aus Gras die Teegesellschaft umgibt. Wie durchtrennt ziehen sich die Schatten zur\u00fcck, und langsam kehrt der Garten des Hasen zur\u00fcck.</blockquote>\nFalls die aktuelle c-Agenda \u201eDie verr\u00fcckte Teegesellschaft\u201d ist,<br></b>(<b><resolution>A2</b>).\nFalls die aktuelle c-Agenda \u201eDer verr\u00fcckte M\u00e4rzhase\u201d ist,<br>(<b><resolution>A3</b>).\nFalls die aktuelle c-Agenda \u201eDer verr\u00fcckte Hutmacher\u201d ist,<br>(<b><resolution>A4</b>).\nFalls die aktuelle c-Agenda \u201eEine ausufernde Teegesell-<br>schaft\u201d ist,(<b><resolution>A5</b>).",
                 "index": "3b"
             },
             "encounter_number": "11",
@@ -3174,7 +3175,7 @@
             "name": "In Schatten getr\u00e4nkt",
             "front": {
                 "type": "agenda",
-                "text": "Alle Gegner verlieren ihre Erscheinen-Anweisungen und erhalten \u201e<spawn> Leerer <t>Stuhl</t>-<br>Ort.\u201c",
+                "text": "Alle Gegner verlieren ihre Erscheinen-Anweisungen und erhalten \u201e<spawn> Leerer <t>Stuhl</t>-Ort.\u201c",
                 "flavor_text": "Die wirbelnden Schatten umkreisen und isolieren dich vom Rest der Teegesell-<br>schaft. Um dich kreisen wacklige St\u00fchle, keiner l\u00e4dt zum Verweilen ein. Wenn du zur\u00fcck auf festen Boden willst, musst du dich beeilen.",
                 "illustration": "./images/expanded_images/Teapot - Unknown.jpg",
                 "doom": "6",
@@ -3200,7 +3201,7 @@
             "name": "In die Dunkelheit treiben",
             "front": {
                 "type": "agenda",
-                "text": "Alle Gegner verlieren ihre Erscheinen-Anweisungen und erhalten \u201e<spawn> Leerer <t>Stuhl</t>-<br>Ort.\u201c",
+                "text": "Alle Gegner verlieren ihre Erscheinen-Anweisungen und erhalten \u201e<spawn> Leerer <t>Stuhl</t>-Ort.\u201c",
                 "flavor_text": "Jedes Mal, wenn St\u00fchle vom Tisch weg treiben, sinken sie tiefer und tiefer in die Schatten. Bald schon wirst du keinen Tritt mehr finden.",
                 "illustration": "./images/expanded_images/Teapot - Unknown.jpg",
                 "doom": "6",
@@ -3213,8 +3214,9 @@
                 "type": "agenda_back",
                 "name": "Trinket und seid fr\u00f6hlich!",
                 "victory": "",
-                "text": "<blockquote>Die Teegesellschaft schl\u00fcrft gierig ihre Tassen leer und stopft sich mit allem voll, was greifbar ist, w\u00e4hrend ihr wirres Geplapper kein Ende nimmt. Dieser Wahnsinn wird euch alle umbringen, wenn ihr nicht bald zur Besinnung kommt.</blockquote>\nHeile jeweils 2<per_large> Schaden vom Hutmacher und dem M\u00e4rzhasen.",
-                "index": "2b"
+                "text": "Heile jeweils 2<per_large> Schaden vom Hutmacher und dem M\u00e4rzhasen.",
+                "index": "2b",
+                "flavor_text": "Die Teegesellschaft schl\u00fcrft gierig ihre Tassen leer und stopft sich mit allem voll, was greifbar ist, w\u00e4hrend ihr wirres Geplapper kein Ende nimmt. Dieser Wahnsinn wird euch alle umbringen, wenn ihr nicht bald zur Besinnung kommt."
             },
             "encounter_number": "3",
             "project_number": "49",
@@ -3225,7 +3227,7 @@
             "name": "F\u00fcnf vor Zw\u00f6lf",
             "front": {
                 "type": "agenda",
-                "text": "Alle Gegner verlieren ihre Erscheinen-Anweisungen und erhalten \u201e<spawn> Leerer <t>Stuhl</t>-<br>Ort.\u201c",
+                "text": "Alle Gegner verlieren ihre Erscheinen-Anweisungen und erhalten \u201e<spawn> Leerer <t>Stuhl</t>-Ort.\u201c",
                 "flavor_text": "Das sp\u00e4rliche Licht, das den Teetisch beleuchtet, schwindet schnell. Wenn du keinen Ausweg findest, bevor die Dunkelheit dich umh\u00fcllt, ist es ungewiss, ob du jemals wieder Tageslicht sehen wirst.",
                 "illustration": "./images/expanded_images/Teapot - Unknown.jpg",
                 "doom": "6",
@@ -3267,7 +3269,7 @@
                 "name": "Gegen die Etikette",
                 "victory": "",
                 "index": "1d",
-                "text": "<b>Falls der Hutmacher besiegt wurde:</b>\n<blockquote>Der Hutmacher gibt ein gequ\u00e4ltes R\u00f6cheln von sich und sackt in seinem Stuhl zusammen, als dein letzter Schlag ihn trifft. Sofort f\u00e4hrt der Hase w\u00fctend in die H\u00f6he und zeigt mit einem anklagenden Finger auf dich. \u201eWenn du dich pr\u00fcgeln willst, dann nicht am Tisch! Ich will nicht, dass du die anderen G\u00e4ste bel\u00e4stigst!\u201d</blockquote>\nDrehe den M\u00e4rzhasen um. Merke dir, dass der Ermittler, der den Hutmacher besiegt hat, \u201eschreckliche Tischmanieren hat\u201d.\nR\u00fccke zu Agenda 2c - \u201eDer Verr\u00fcckte M\u00e4rzhase\u201d vor.\n<hr> <b>Falls der M\u00e4rzhase besiegt wurde:</b>\n<blockquote>Der Hase bricht schlaff auf dem Tisch zusammen, als dein letzter Angriff seine Wirkung zeigt. Der Hutmacher schleudert eine halb gef\u00fcllte Teetasse nach dir, v\u00f6llig w\u00fctend. \u201eJetzt hast du es geschafft! Ein absolut anregendes Gespr\u00e4ch wird durch dein r\u00fcpelhaftes Verhalten ruiniert! Wenn du nicht h\u00f6flich sein kannst, dann solltest du gar nicht sprechen!\u201d</blockquote>\nDrehe den Hutmacher um. Merke dir, dass der Ermittler, der den M\u00e4rzhasen besiegt hat, \u201eschreckliche Tischmanieren hat\u201d.\nR\u00fccke zu Agenda 2c - \u201eDer Verr\u00fcckte Hutmacher\u201d vor."
+                "text": "<b>Falls der Hutmacher besiegt wurde:</b>\n<blockquote>Der Hutmacher gibt ein gequ\u00e4ltes R\u00f6cheln von sich und sackt in seinem Stuhl zusammen, als dein letzter Schlag ihn trifft. Sofort f\u00e4hrt der Hase w\u00fctend in die H\u00f6he und zeigt mit einem anklagenden Finger auf dich. \u201eWenn du dich pr\u00fcgeln willst, dann nicht am Tisch! Ich will nicht, dass du die anderen G\u00e4ste bel\u00e4stigst!\u201d</blockquote>\nDrehe den M\u00e4rzhasen um. Merke dir, dass der Ermittler, der den Hutmacher besiegt hat, \u201eschreckliche Tischmanieren hat\u201d.\nR\u00fccke zu Agenda 2c - \u201eDer Verr\u00fcckte M\u00e4rzhase\u201d vor. <hr> \n<b>Falls der M\u00e4rzhase besiegt wurde:</b>\n<blockquote>Der Hase bricht schlaff auf dem Tisch zusammen, als dein letzter Angriff seine Wirkung zeigt. Der Hutmacher schleudert eine halb gef\u00fcllte Teetasse nach dir, v\u00f6llig w\u00fctend. \u201eJetzt hast du es geschafft! Ein absolut anregendes Gespr\u00e4ch wird durch dein r\u00fcpelhaftes Verhalten ruiniert! Wenn du nicht h\u00f6flich sein kannst, dann solltest du gar nicht sprechen!\u201d</blockquote>\nDrehe den Hutmacher um. Merke dir, dass der Ermittler, der den M\u00e4rzhasen besiegt hat, \u201eschreckliche Tischmanieren hat\u201d.\nR\u00fccke zu Agenda 2c - \u201eDer Verr\u00fcckte Hutmacher\u201d vor."
             },
             "encounter_number": "5",
             "project_number": "51",
@@ -3293,8 +3295,9 @@
                 "type": "agenda_back",
                 "name": "Ausgehoppelt",
                 "victory": "",
-                "text": "<blockquote>Der Hase st\u00fcrzt aus seinem Sitz und greift kraftlos nach oben, w\u00e4hrend er in der Dunkelheit unter ihm verschwindet. Der ganze Tisch erbebt und das Geschirr klappert, w\u00e4hrend sich Schatten auf dich zu bewegen.</blockquote>\nMerke dir, dass der Ermittler, der den M\u00e4rzhasen besiegt hat, \u201eschreckliche Tischmanieren hat\u201d.\nR\u00fccke zu Agenda 3c -- \u201eEine ausufernde Teegesellschaft\u201d<br> vor.",
-                "index": "2d"
+                "text": "Merke dir, dass der Ermittler, der den M\u00e4rzhasen besiegt hat, \u201eschreckliche Tischmanieren hat\u201d.\nR\u00fccke zu Agenda 3c -- \u201eEine ausufernde Teegesell-<br>schaft\u201d vor.",
+                "index": "2d",
+                "flavor_text": "Der Hase st\u00fcrzt aus seinem Sitz und greift kraftlos nach oben, w\u00e4hrend er in der Dunkelheit unter ihm verschwindet. Der ganze Tisch erbebt und das Geschirr klappert, w\u00e4hrend sich Schatten auf dich zu bewegen."
             },
             "encounter_number": "6",
             "project_number": "52",
@@ -3320,8 +3323,9 @@
                 "type": "agenda_back",
                 "name": "Den Hut an den Nagel h\u00e4ngen",
                 "victory": "",
-                "text": "<blockquote>Der Hutmacher f\u00e4llt mit einem leisen Wimmern auf die Knie, bevor er in die wogenden Schatten hinabst\u00fcrzt. Mit seinem Verschwinden scheint die Dunkelheit auf dich zuzukommen, und der Tisch erbebt mit einem Knarren des Holzes.</blockquote>\nMerke dir, dass der Ermittler, der den Hutmacher besiegt hat, \u201eschreckliche Tischmanieren hat\u201d.\nR\u00fccke zu Agenda 3c -- \u201eEine ausufernde Teegesellschaft\u201d<br>vor.",
-                "index": "2d"
+                "text": "Merke dir, dass der Ermittler, der den Hutmacher besiegt hat, \u201eschreckliche Tischmanieren hat\u201d.\nR\u00fccke zu Agenda 3c -- \u201eEine ausufernde Teegesell-<br>schaft\u201d vor.",
+                "index": "2d",
+                "flavor_text": "Der Hutmacher f\u00e4llt mit einem leisen Wimmern auf die Knie, bevor er in die wogenden Schatten hinabst\u00fcrzt. Mit seinem Verschwinden scheint die Dunkelheit auf dich zuzukommen, und der Tisch erbebt mit einem Knarren des Holzes."
             },
             "encounter_number": "7",
             "project_number": "53",
@@ -3333,7 +3337,7 @@
             "front": {
                 "type": "agenda",
                 "text": "Auf dieser Agenda kann kein Verderben platziert werden.\n<act> Gib 1<per_large> Hinweise aus: <b>Aufgeben.</b> Du springst in die Schatten und vertraust deiner Intuition.\n<for> Zu Beginn der Mythosphase, falls sich keine Gegner im Spiel befinden: Platziere 1 Verderben auf der a-Agenda.",
-                "flavor_text": "Nach dem Tod von Hase und Hutmacher wird die schwebende Teeparty immer br\u00fcchiger. Schatten-<br>hafte Ranken kriechen von allen Seiten heran und versuchen, Tisch und St\u00fchle zu zerrei\u00dfen. Nutze die n\u00e4chsten Minuten, ehe alles zerf\u00e4llt.",
+                "flavor_text": "Nach dem Tod von Hase und Hutmacher wird die schwebende Teeparty immer br\u00fcchiger. Schattenhafte Ranken kriechen von allen Seiten heran und versuchen, Tisch und St\u00fchle zu zerrei\u00dfen. Nutze die n\u00e4chsten Minuten, ehe alles zerf\u00e4llt.",
                 "illustration": "./images/expanded_images/Mad Tea Party - Gregory Hildebrandt.jpg",
                 "doom": "<dash>",
                 "index": "3c",
@@ -3382,7 +3386,7 @@
                         "token": [
                             "elder_thing"
                         ],
-                        "text": "--3. Falls du dich an einem <t>Stuhl</t>-<br>Ort befindest: Ziehe nach dieser Probe die oberste Karte des Stuhldecks und ersetze deinen Ort damit. Mische deinen alten Ort in das Stuhldeck."
+                        "text": "--3. Falls du dich an einem<br> <t>Stuhl</t>-Ort befindest: Ziehe nach dieser Probe die oberste Karte des Stuhldecks und ersetze deinen Ort damit. Mische deinen alten Ort in das Stuhldeck."
                     }
                 ],
                 "difficulty": "EINFACH/STANDARD"
@@ -3407,7 +3411,7 @@
                         "token": [
                             "elder_thing"
                         ],
-                        "text": "--4. Falls du dich an einem <t>Stuhl</t>-<br>Ort befindest: Ziehe nach dieser Probe die oberste Karte des Stuhldecks und ersetze deinen Ort damit. Mische deinen alten Ort in das Stuhldeck."
+                        "text": "--4. Falls du dich an einem<br><t>Stuhl</t>-Ort befindest: Ziehe nach dieser Probe die oberste Karte des Stuhldecks und ersetze deinen Ort damit. Mische deinen alten Ort in das Stuhldeck."
                     }
                 ],
                 "difficulty": "SCHWER/EXPERTE"
@@ -3443,7 +3447,7 @@
                 "illustrator": "Illus. Arthur Rackham",
                 "name": "<name>",
                 "subtitle": "",
-                "text": "Gegner k\u00f6nnen sich nicht auf die <name> bewegen.\n<for> Nachdem du die <name> betreten hast: Merke dir, dass du \u201eschreckliche Tischmanieren<br>hast\u201c.",
+                "text": "Gegner k\u00f6nnen sich nicht auf die <name> bewegen.\n<for> Nachdem du die <name> betreten hast: Merke dir, dass du \u201eschreckliche Tischmanieren hast\u201c.",
                 "flavor_text": "Teetassen und Kannen, Brot und Butter und eine nicht geringe Menge an S\u00fc\u00dfigkeiten stehen ungeordnet auf dem Tisch.",
                 "connection": "<copy>",
                 "connections": [
@@ -4585,8 +4589,9 @@
                 "type": "agenda_back",
                 "name": "Zack zack oder Kopf ab!",
                 "victory": "",
-                "text": "<blockquote>\u201eHabt ihr den Schuldigen noch immer nicht gefunden?! Den Kopf ihr ab!\u201c\nDie Laune der K\u00f6nigin wird sichtlich immer schlechter, und der Scharfrichter wetzt schon die Axt, um ihrem Wunsch Folge zu leisten.</blockquote>\nFalls der Scharfrichter im Spiel ist, platziere 1 Verderben auf ihm.\nAnsonsten durchsuche das Begegnungsdeck und den Ablagestapel nach dem Scharfrichter und bringe ihn ins Spiel.",
-                "index": "1b"
+                "text": "Falls der Scharfrichter im Spiel ist, platziere 1 Verderben auf ihm.\nAnsonsten durchsuche das Begegnungsdeck und den Ablagestapel nach dem Scharfrichter und bringe ihn ins Spiel.",
+                "index": "1b",
+                "flavor_text": "\u201eHabt ihr den Schuldigen noch immer nicht gefunden?! Den Kopf ihr ab!\u201c\nDie Laune der K\u00f6nigin wird sichtlich immer schlechter, und der Scharfrichter wetzt schon die Axt, um ihrem Wunsch Folge zu leisten."
             },
             "encounter_number": "2",
             "project_number": "88",
@@ -4597,7 +4602,7 @@
             "name": "S\u00fcndenb\u00f6cke",
             "front": {
                 "type": "agenda",
-                "text": "Die Herz-K\u00f6nigin erh\u00e4lt Alarmiert.\n<for> Am Ende der Mythosphase: In Spielerreihenfolge zieht jeder Spieler, der 7 oder mehr Anschuldigungen auf seiner Kopie von K\u00f6niglicher Verdacht hat, eine weitere Begegnungskarte.",
+                "text": "Die Herz-K\u00f6nigin erh\u00e4lt Alarmiert.\n<for> Am Ende der Mythos-<br>phase: In Spielerreihenfolge zieht jeder Spieler, der 7 oder mehr Anschuldigungen auf seiner Kopie von K\u00f6niglicher Ver-<br>dacht hat, eine weitere<br> Begegnungskarte.",
                 "flavor_text": "Die K\u00f6nigin streift auf der Suche nach einem Opfer \u00fcber das Schlossgel\u00e4nde. Du fragst dich langsam, wie sehr sich die K\u00f6nigin wirklich f\u00fcr die T\u00f6rtchen interessiert oder ob sie nur nach einem Anlass sucht, jemanden hinrichten zu lassen.",
                 "illustration": "./images/expanded_images/Miscellaneous - Marylou Deserson.jpg",
                 "doom": "7",
@@ -4621,7 +4626,7 @@
             "name": "Verd\u00e4chtige beseitigen",
             "front": {
                 "type": "agenda",
-                "text": "Der Scharfrichter und die Herz-K\u00f6nigin erhalten Alarmiert.\n<for> Am Ende der Mythosphase: In Spielerreihenfolge zieht jeder Spieler, der 7 oder mehr Anschuldigungen auf seiner Kopie von K\u00f6niglicher Verdacht hat, eine weitere Begegnungskarte.",
+                "text": "Der Scharfrichter und die Herz-K\u00f6nigin erhalten Alarmiert.\n<for> Am Ende der Mythos-<br>phase: In Spielerreihenfolge zieht jeder Spieler, der 7 oder mehr Anschuldigungen <br>auf seiner Kopie von K\u00f6niglicher Verdacht hat, eine weitere <br>Begegnungskarte.",
                 "flavor_text": "Wenn das so weitergeht, wird bald das ganze Schloss hinter deinem Kopf her sein. Wenn du diese n\u00e4chsten Minuten nicht nutzt, wird es keine Chance geben, deine Unschuld zu beweisen.",
                 "illustration": "./images/expanded_images/Miscellaneous - Marylou Deserson.jpg",
                 "doom": "6",
@@ -4668,7 +4673,7 @@
                         "token": [
                             "elder_thing"
                         ],
-                        "text": "\u20132 (\u20134 stattdessen, falls sich der Scharfrichter im Spiel befindet)."
+                        "text": "\u20132 (\u20134 stattdessen, falls sich <br>der Scharfrichter im Spiel befindet)."
                     }
                 ],
                 "difficulty": "EINFACH/STANDARD"
@@ -4680,7 +4685,7 @@
                         "token": [
                             "skull"
                         ],
-                        "text": "\u2013X. X ist die Anzahl an Anschuldigungen auf deiner Kopie von K\u00f6niglicher Verdacht."
+                        "text": "\u2013X. X ist die Anzahl an Anschuldigungen auf deiner Kopie von K\u00f6niglicher<br> Verdacht."
                     },
                     {
                         "token": [
@@ -4698,7 +4703,7 @@
                         "token": [
                             "elder_thing"
                         ],
-                        "text": "\u20133 (\u20135 stattdessen, falls sich der Scharfrichter im Spiel befindet)."
+                        "text": "\u20133 (\u20135 stattdessen, falls sich<br> der Scharfrichter im Spiel befindet)."
                     }
                 ],
                 "difficulty": "SCHWER/EXPERTE"
@@ -5309,7 +5314,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Herzhafter Hacker",
                 "traits": "Gegenstand. Waffe. Nahkampf. Wunderland.",
-                "text": "<action>: <b>Kampf.</b> Du bekommst f\u00fcr diesen Angriff +1 <combat>. Dieser Angriff f\u00fcgt +1 Schaden zu. Falls ein <skull> oder <elder_thing>-<br>Symbol w\u00e4hrend dieses Angriffes enth\u00fcllt wird, darfst du entweder den Modifikator des Markers als 0 behandeln oder +1 Schaden zuf\u00fcgen.",
+                "text": "<action>: <b>Kampf.</b> Du bekommst f\u00fcr diesen Angriff +1 <combat>. Dieser Angriff f\u00fcgt +1 Schaden zu. Falls ein <skull>- oder <elder_thing>-<br>Symbol w\u00e4hrend dieses Angriffes enth\u00fcllt wird, darfst du entweder den Modifikator des Markers als 0 behandeln oder +1 Schaden zuf\u00fcgen.",
                 "cost": "3",
                 "slot": "1 Hand",
                 "flavor_text": "Fass dir ein Herz.",
@@ -5452,7 +5457,7 @@
             "front": {
                 "type": "agenda",
                 "text": "<action> Erleide 1 k\u00f6rperliches Trauma und 1 seelisches Trauma: <b>Aufgeben.</b> Du brichst die Suche ab und hoffst, den Pfad hinaus zu finden.",
-                "flavor_text": "Trotz der Begeisterung des B\u00fcttels und seiner Gruppe hast du einige Vorbehalte, diese W\u00e4lder im Dunkeln zu durch-<br>suchen. Du hast das beunruhigende Gef\u00fchl, dass w\u00e4hrend ihr nach dem Schlarg sucht, etwas viel Seltsameres und viel St\u00e4rkeres euch jagt.",
+                "flavor_text": "Trotz der Begeisterung des B\u00fcttels und seiner Gruppe hast du einige Vorbehalte, diese W\u00e4lder im Dunkeln zu durchsuchen. Du hast das beunruhigende Gef\u00fchl, dass w\u00e4hrend ihr nach dem Schlarg sucht, etwas viel Seltsameres und viel St\u00e4rkeres euch jagt.",
                 "illustration": "./images/expanded_images/Jabberwock - Antonio Jos\u00e9 Manzanedo.jpg",
                 "doom": "3",
                 "index": "1a",
@@ -5487,7 +5492,7 @@
                 "type": "agenda_back",
                 "name": "Erschlugst den Schebberoch?",
                 "victory": "",
-                "text": "Durchsuche alle Zonen innerhalb und au\u00dferhalb des Spiels nach dem Gegner Der Schebberoch. Dieser erscheint am Ort des Ermittlungsleiters. Falls sich der Schebberoch im Siegpunktestapel befunden hat, lege 2<per_large> Schaden auf ihn.",
+                "text": "Durchsuche alle Zonen innerhalb und au\u00dferhalb des Spiels nach dem Gegner Der Schebberoch. Dieser erscheint am Ort des Ermittlungsleiters. Falls sich der Schebberoch im Siegpunktestapel befunden hat, lege<br> 2<per_large> Schaden auf ihn.",
                 "index": "2b",
                 "flavor_text": "Die teuflische Kreatur greift mit zunehmender H\u00e4ufigkeit und Heftigkeit an, w\u00e4hrend du versuchst, den tulgen Wald zu durchk\u00e4mmen. Wohin du dich auch wendest, die brennenden Augen und b\u00f6sartigen Klauen des Schebberochs sind \u00fcberall. Selbst deine besten Angriffe lassen dich daran zweifeln, ob das Biest \u00fcberhaupt get\u00f6tet werden kann."
             },
@@ -5547,7 +5552,7 @@
                         "token": [
                             "elder_thing"
                         ],
-                        "text": "\u20132 (\u20134 stattdessen, falls sich der Schebberoch im Spiel befindet)."
+                        "text": "\u20132 (\u20134 stattdessen, falls<br> sich der Schebberoch im Spiel befindet)."
                     }
                 ],
                 "difficulty": "EINFACH/STANDARD"
@@ -5577,7 +5582,7 @@
                         "token": [
                             "elder_thing"
                         ],
-                        "text": "\u20133 (\u20135 stattdessen, falls sich der Schebberoch im Spiel befindet)."
+                        "text": "\u20133 (\u20135 stattdessen, falls <br>sich der Schebberoch im Spiel befindet)."
                     }
                 ],
                 "difficulty": "SCHWER/EXPERTE"
@@ -5805,7 +5810,7 @@
                 "name": "Einsames Waldgebiet",
                 "subtitle": "Die Spur des Butchers",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<size 58><action> Falls kein Horror auf dem rauen Hinterland liegt, durchsuche das Begegnungsdeck und den Ablagestapel nach 1 Gegner ohne Nachr\u00fcsten und ziehe ihn (stattdessen 2 Gegner, falls 3 oder 4 Ermittler im Spiel sind): Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "text": "<size 58><action> Falls kein Horror auf dem rauen Hinterland liegt, durchsuche das Begegnungsdeck und den Ablagestapel nach 1 Gegner ohne Nachr\u00fcsten und ziehe ihn (stattdessen 2 Gegner, falls 3 oder 4 Ermittler im Spiel sind): Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Wald-<br>gebiet.",
                 "flavor_text": "Der Umweg des Butchers f\u00fchrt an einem hohlen Baum vorbei, in dem sich einige aufgekratzte Kreaturen niedergelassen haben.",
                 "victory": "Sieg 1.",
                 "shroud": "4",
@@ -5878,7 +5883,7 @@
                 "name": "Einsames Waldgebiet",
                 "subtitle": "Die Spur des Barristers",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt, durchsuche dein Deck und deinen Ablage-<br>stapel nach einer Schw\u00e4che und ziehe diese Karte: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "text": "<action> Falls kein Horror auf dem einsamen Wald-<br>gebiet liegt, durchsuche dein Deck und deinen Ablagestapel nach einer Schw\u00e4che und ziehe diese Karte: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
                 "flavor_text": "Der Kurs des Barristers schl\u00e4ngelt sich durch eine enge Aneinanderreihung von Tunneln.",
                 "victory": "Sieg 1.",
                 "shroud": "4",
@@ -5956,7 +5961,7 @@
                 "name": "Raues Hinterland",
                 "subtitle": "Die Spur des Billard-Mark\u00f6rs",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt: Lege eine beliebige Fertigkeitsprobe (3) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1<per_large>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem rauen Hinterland.",
+                "text": "<action> Falls kein Horror auf dem rauen Hinter-<br>land liegt: Lege eine beliebige Fertigkeitsprobe (3) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1<per_large>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem rauen Hinterland.",
                 "victory": "",
                 "shroud": "3",
                 "clues": "1<per>",
@@ -5992,7 +5997,7 @@
                 "name": "Raues Hinterland",
                 "subtitle": "Die Spur des B\u00f6rsenmaklers",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt, legen Ermittler an diesem Ort als Gruppe Karten mit Gesamtkosten von mindestens 3<per_large> von ihrer Hand ab: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem rauen Hinterland.",
+                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt, legen Ermittler an diesem Ort als Gruppe Karten mit Gesamtkosten von mindestens <br>3<per_large> von ihrer Hand ab: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem rauen Hinterland.",
                 "flavor_text": "Der Weg des B\u00f6rsenmaklers f\u00fchrt \u00fcber sumpfigen Boden, der deine M\u00f6glichkeiten stark einschr\u00e4nkt.",
                 "victory": "",
                 "shroud": "3",
@@ -6028,7 +6033,7 @@
                 "name": "Raues Hinterland",
                 "subtitle": "Die Spur des Bonnet-Machers",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt: Lege eine <willpower>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1<per_large>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem rauen Hinterland.",
+                "text": "<action> Falls kein Horror auf dem rauen Hinter-<br>land liegt: Lege eine <willpower>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1<per_large>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem rauen Hinterland.",
                 "flavor_text": "Der Weg des Hutmachers f\u00fchrt zum Eingang einer tiefen und unheimlichen H\u00f6hle.",
                 "victory": "",
                 "shroud": "3",
@@ -6064,7 +6069,7 @@
                 "name": "Raues Hinterland",
                 "subtitle": "Die Spur des Bootblacks",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt: Lege eine <agility>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1<per_large>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem rauen Hinterland.",
+                "text": "<action> Falls kein Horror auf dem rauen Hinter-<br>land liegt: Lege eine <agility>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1<per_large>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem rauen Hinterland.",
                 "victory": "",
                 "shroud": "3",
                 "clues": "1<per>",
@@ -6314,7 +6319,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Schnacke-schnicke Klinge",
                 "traits": "Wunderland. Gegenstand. Waffe.",
-                "text": "<action>: <b>Kampf.</b> Du bekommst f\u00fcr diesen Angriff +1 <combat>. Dieser Angriff f\u00fcgt +1 Schaden zu. Falls w\u00e4hrend dieses Angriffs ein <elder_sign>-, <blessing>, +1-, oder 0-Chaosmarker enth\u00fcllt wird, darfst du entweder 1 Horror heilen oder dieser Angriff f\u00fcgt +2 Schaden zu. Falls der angegriffene Gegner ein <t>Monster</t>-, <t>Abscheulichkeit</t>- oder <t>Schatten</t>-Gegner ist, darfst du beides w\u00e4hlen.",
+                "text": "<action>: <b>Kampf.</b> Du bekommst f\u00fcr diesen Angriff +1 <combat>. Dieser Angriff f\u00fcgt +1 Schaden zu. Falls w\u00e4hrend dieses Angriffs ein <br><elder_sign>-, <blessing>-, +1-, oder 0-Chaosmarker enth\u00fcllt wird, darfst du entweder 1 Horror heilen oder dieser Angriff f\u00fcgt +2 Schaden zu. Falls der angegriffene Gegner ein <t>Monster</t>-, <t>Abscheulichkeit</t>- oder <t>Schatten</t>-Gegner ist, darfst du beides w\u00e4hlen.",
                 "cost": "3",
                 "slot": "1 Hand",
                 "victory": "",
@@ -6369,7 +6374,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Absto\u00dfende Abscheulichkeit",
                 "traits": "Wunderland. Monster. Abscheulichkeit. Elite.",
-                "text": "<size 60>Alarmiert. Gewaltig. Zur\u00fcckschlagen.\n<for> Sobald der Schebberoch w\u00e4hrend der Gegnerphase angreift: Er f\u00fcgt +1 Schaden und +1 Horror zu.\n<for> Am Ende der Runde: L\u00f6se den Schebberoch von allen Ermittlern und lege ihn mit allen Markern auf ihm neben die Agenda au\u00dferhalb des Spiels.",
+                "text": "<size 60>Alarmiert. Gewaltig. Zur\u00fcckschlagen.\n<for> Sobald der Schebberoch w\u00e4hrend der Gegnerphase angreift: Er f\u00fcgt +1 Schaden und <br>+1 Horror zu.\n<for> Am Ende der Runde: L\u00f6se den Schebberoch von allen Ermittlern und lege ihn mit allen Markern auf ihm neben die Agenda au\u00dferhalb des Spiels.",
                 "health": "4<per>",
                 "evade": "3",
                 "attack": "4",
@@ -6449,7 +6454,7 @@
             "front": {
                 "type": "act",
                 "text": "Dideldei und Dideldum erhalten: \u201e<action>: <b>Verhandlung.</b> Lege eine <willpower>- oder <intellect>-Probe (4) ab. Falls die Probe gelingt, platziere 1 Horror auf dieser Vorteilskarte.\u201d\n<obj> Falls sich Dideldei <i>(Be\u00e4ngstigter Bruder)</i> und Dideldum <i>(Be\u00e4ngstigter Bruder)</i> im Siegpunkte-<br>stapel befinden, r\u00fccke vor.",
-                "flavor_text": "Die Br\u00fcder geraten bereits in Panik, versuchen aber dennoch, ihre Truppen zum Gefecht zu bewegen. Mit der dunklen Kr\u00e4he, die sich \u00fcber das Schlachtfeld hermacht, hast du das n\u00f6tige Werkzeug, um den Zwillingen etwas Vernunft einzubl\u00e4uen.",
+                "flavor_text": "Die Br\u00fcder geraten bereits in Panik, versuchen <br>aber dennoch, ihre Truppen zum Gefecht zu bewegen. Mit der dunklen Kr\u00e4he, die sich \u00fcber das Schlachtfeld hermacht, hast du das n\u00f6tige Werkzeug, um den Zwillingen etwas Vernunft einzubl\u00e4uen.",
                 "illustration": "./images/expanded_images/Environment - Jes\u00fas Campos Jim\u00e9nez.jpg",
                 "index": "3a",
                 "illustrator": "Illus. Jes\u00fas Campos Jim\u00e9nez",
@@ -6475,7 +6480,7 @@
             "name": "Bruder gegen Bruder",
             "front": {
                 "type": "agenda",
-                "text": "<for> Nachdem ein <t>Karte</t>-Gegner besiegt wurde: Platziere 1 Schaden auf der Szenario\u00fcbersichtskarte.\n<for> Nachdem ein <t>Schach</t>-Gegner besiegt wurde: Platziere 1 Horror auf der Szenario\u00fcbersichtskarte.",
+                "text": "<for> Nachdem ein <t>Karte</t>-Gegner besiegt wurde: Platziere 1 Schaden auf der Szenario\u00fcbersichtskarte.\n<for> Nachdem ein <t>Schach</t>-<br>Gegner besiegt wurde: Platziere 1 Horror auf der Szenario\u00fcbersichts-<br>karte.",
                 "flavor_text": "Auf Befehl der Didel-Br\u00fcder bek\u00e4mpfen sich die Karten und Schachfiguren an jedem nur m\u00f6glichen Ort in dem kleinen bewaldeten Tal. Bei dem rasanten Tempo, mit dem diese Schlacht eskaliert, k\u00f6nnten die Soldaten noch einen der Br\u00fcder t\u00f6ten, bevor du die Rassel in die H\u00e4nde bekommst.",
                 "illustration": "./images/expanded_images/Environment - Darek Zabrocki.jpg",
                 "doom": "3",
@@ -6521,7 +6526,7 @@
                         "token": [
                             "elder_thing"
                         ],
-                        "text": "\u20132. Falls die Probe misslingt, platziere 1 Schaden und 1 Horror auf der Szenario\u00fcbersichtskarte."
+                        "text": "\u20132. Falls die Probe misslingt, platziere 1 Schaden und <br>1 Horror auf der Szenario-<br>\u00fcbersichtskarte."
                     }
                 ],
                 "difficulty": "EINFACH/STANDARD"
@@ -6546,7 +6551,7 @@
                         "token": [
                             "elder_thing"
                         ],
-                        "text": "\u20133. Falls die Probe misslingt, platziere 1 Schaden und 1 Horror auf der Szenario\u00fcbersichtskarte."
+                        "text": "\u20133. Falls die Probe misslingt, platziere 1 Schaden und<br> 1 Horror auf der Szenario-<br>\u00fcbersichtskarte."
                     }
                 ],
                 "difficulty": "SCHWER/EXPERTE"
@@ -6562,7 +6567,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland.",
-                "text": "<action> Falls sich mindestens 2<per_large> Marker auf der Szenario-<br>\u00fcbersichtskarte befinden: Lege eine <willpower>- oder <intellect>-Probe (4) ab. Falls die Probe gelingt, notiere im Kampagnenlogbuch unter \u201eFragmente von Alice\u201c <i>Vernunft</i>.",
+                "text": "<action> Falls sich mindestens 2<per_large> Marker auf der Szenario\u00fcbersichtskarte befinden: Lege eine <willpower>- oder <intellect>-<br>Probe (4) ab. Falls die Probe gelingt, notiere im Kampagnen-<br>logbuch unter \u201eFragmente von Alice\u201c <i>Vernunft</i>.",
                 "flavor_text": "Karten- und Schachsoldaten prallen um dich herum aufeinander, den Befehlen der Zwillinge gehorchend. Wenn du sie doch nur dazu bringen k\u00f6nntest, dieses absurde Duell aufzugeben.",
                 "victory": "",
                 "illustration": "./images/expanded_images/Tulgey Wood - Carmen Thora 2.jpg",
@@ -6602,7 +6607,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland.",
-                "text": "<action>: <b>Verhandlung.</b> Lege eine <willpower>- oder <intellect>-Probe (3) ab, um eine von Dideldums Spielkarten zu \u00fcberzeugen, den Kampf aufzugeben. Falls die Probe gelingt, platziere 1 Schaden auf der Szenario\u00fcbersichtskarte. Falls die Probe misslingt, nimm 1 Schaden.",
+                "text": "<action>: <b>Verhandlung.</b> Lege eine <willpower>- oder <intellect>-Probe (3) ab, um eine von Dideldums Spielkarten zu \u00fcberzeugen, den Kampf aufzugeben. Falls die Probe gelingt, platziere<br> 1 Schaden auf der Szenario\u00fcbersichtskarte. Falls die Probe misslingt, nimm 1 Schaden.",
                 "flavor_text": "Der Gro\u00dfteil an Dideldums Truppen wartet hier auf die Gelegenheit, sich in die Schlacht zu st\u00fcrzen.",
                 "victory": "Sieg 1.",
                 "illustration": "./images/Environment - J L Sander 1.png",
@@ -6643,7 +6648,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland.",
-                "text": "<action>: <b>Verhandlung.</b> Lege eine <willpower>- oder <intellect>-Probe (3) ab, um eine von Dideldeis Schachfiguren zu \u00fcberzeugen, den Kampf aufzugeben. Falls die Probe gelingt, platziere 1 Horror auf der Szenario\u00fcbersichtskarte. Falls die Probe misslingt, nimm 1 Horror.",
+                "text": "<action>: <b>Verhandlung.</b> Lege eine <willpower>- oder <intellect>-Probe (3) ab, um eine von Dideldeis Schachfiguren zu \u00fcberzeugen, den Kampf aufzugeben. Falls die Probe gelingt, platziere <br>1 Horror auf der Szenario\u00fcbersichtskarte. Falls die Probe misslingt, nimm 1 Horror.",
                 "flavor_text": "Der Gro\u00dfteil an Dideldeis Truppen wartet hier auf die Gelegenheit, sich in die Schlacht zu st\u00fcrzen.",
                 "victory": "Sieg 1.",
                 "illustration": "./images/Environment - J L Sander 1.png",
@@ -7052,7 +7057,7 @@
                 "subtitle": "Be\u00e4ngstigter Bruder",
                 "traits": "Wunderland. Humanoid.",
                 "text": "",
-                "flavor_text": "Die Riesenkr\u00e4he flog herzu, <br>So schwarz wie Pech im Fasse;<br> Das Heldenpaar gab sogleich Ruh,<br>Entsagend allem Hasse.",
+                "flavor_text": "<valign>Die Riesenkr\u00e4he flog herzu, <br>So schwarz wie Pech im Fasse;<br> Das Heldenpaar gab sogleich Ruh,<br>Entsagend allem Hasse.",
                 "victory": "Sieg 2.",
                 "title": "<unique> <name>",
                 "classes": [
@@ -7102,7 +7107,7 @@
                 "subtitle": "Be\u00e4ngstigter Bruder",
                 "traits": "Wunderland. Humanoid.",
                 "text": "",
-                "flavor_text": "Die Riesenkr\u00e4he flog herzu, <br>So schwarz wie Pech im Fasse;<br> Das Heldenpaar gab sogleich Ruh,<br>Entsagend allem Hasse.",
+                "flavor_text": "<valign>Die Riesenkr\u00e4he flog herzu, <br>So schwarz wie Pech im Fasse;<br> Das Heldenpaar gab sogleich Ruh,<br>Entsagend allem Hasse.",
                 "victory": "Sieg 2.",
                 "title": "<unique> <name>",
                 "classes": [
@@ -7211,7 +7216,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Komplott.",
-                "text": "Wagnis.\n<rev> H\u00e4nge <name> an einen <t>Soldaten</t>-Gegner an. Falls sich keine <t>Soldat</t>-Gegner im Spiel befinden, erh\u00e4lt <name> <br>Nachr\u00fcsten.\nDer Gegner mit dieser Verst\u00e4rkung bekommt +1 Kampf, +2 Ausdauer, +1 Entkommen, und erh\u00e4lt <t>Elite</t>.",
+                "text": "Wagnis.\n<rev> H\u00e4nge <name> an einen <t>Soldaten</t>-Gegner an. Falls sich keine <t>Soldat</t>-<br>Gegner im Spiel befinden, erh\u00e4lt <name> <br>Nachr\u00fcsten.\nDer Gegner mit dieser Verst\u00e4rkung bekommt +1 Kampf, +2 Ausdauer, +1 Entkommen, und erh\u00e4lt <t>Elite</t>.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Card Guards - Mary Blair.jpg",
@@ -10227,8 +10232,9 @@
                 "type": "act_back",
                 "name": "Bitte aufmachen!",
                 "victory": "",
-                "text": "<blockquote>Du arbeitest dich die K\u00fcste auf und ab, aber keines der Schalen-<br>tiere scheint dich zu verstehen. Schlie\u00dflich betrachtet dich eine Auster noch misstrauischer als die anderen. \u201eDu geh\u00f6rst nicht zum Wunderland\u201c, sagt sie k\u00fchl, \u201eaber du geh\u00f6rst auch nicht zu den Schatten. Du musst eine andere Alice sein.\u201c Du tust dein Bestes, um die Umst\u00e4nde zu erkl\u00e4ren, und sie nickt langsam.</blockquote>\nW\u00e4hle einen Ermittler, der die Kontrolle \u00fcber die beiseitegelegte Karte Die \u00c4lteste Auster \u00fcbernimmt.\n<blockquote></blockquote>\n\n<blockquote></blockquote>",
-                "index": "1b"
+                "text": "W\u00e4hle einen Ermittler, der die Kontrolle \u00fcber die beiseitegelegte Karte Die \u00c4lteste Auster \u00fcbernimmt.\n",
+                "index": "1b",
+                "flavor_text": "Du arbeitest dich die K\u00fcste auf und ab, aber keines der Schalentiere scheint dich zu verstehen. Schlie\u00dflich betrachtet dich eine Auster noch misstrauischer als die anderen. \u201eDu geh\u00f6rst nicht zum Wunderland\u201c, sagt sie k\u00fchl, \u201eaber du geh\u00f6rst auch nicht zu den Schatten. Du musst eine andere Alice sein.\u201c Du tust dein Bestes, um die Umst\u00e4nde zu erkl\u00e4ren, und sie nickt langsam."
             },
             "project_number": "25",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
@@ -10253,8 +10259,9 @@
                 "type": "act_back",
                 "name": "H\u00fctchenspiel",
                 "victory": "",
-                "text": "<blockquote>Da sich der Inhalt des Tisches st\u00e4ndig verschiebt, \u00fcberlegst du dir, wie du die um den Tisch kreisenden Teekannen unterscheiden kannst.\nDu fokussierst dich auf eine einzige Teekanne in der Mitte des Tisches. Sie sieht anders aus als die Kanne, in die die Haselmaus hineingeschl\u00fcpft ist, aber du wei\u00dft, dass du deinen Augen nicht trauen solltest.</blockquote>\nBringe die beiseitegelegte Karte Die Haselmaus auf der Tischmitte ins Spiel.",
-                "index": "1b"
+                "text": "Bringe die beiseitegelegte Karte Die Haselmaus auf der Tischmitte ins Spiel.",
+                "index": "1b",
+                "flavor_text": "Da sich der Inhalt des Tisches st\u00e4ndig verschiebt, \u00fcberlegst du dir, wie du die um den Tisch kreisenden Teekannen unterscheiden kannst.\nDu fokussierst dich auf eine einzige Teekanne in der Mitte des Tisches. Sie sieht anders aus als die Kanne, in die die Haselmaus hineingeschl\u00fcpft ist, aber du wei\u00dft, dass du deinen Augen nicht trauen solltest."
             },
             "encounter_number": "9",
             "project_number": "55",
