@@ -812,7 +812,12 @@
                 "illustration_pan_x": -1495.0,
                 "illustration_pan_y": -959.0,
                 "illustration_scale": 3.0,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "location",
@@ -830,7 +835,12 @@
                 "illustration_scale": 3.0,
                 "illustration_pan_x": -1495.0,
                 "illustration_pan_y": -959.0,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "9",
             "project_number": "207",
@@ -860,7 +870,12 @@
                 "illustrator": "Illus. Jokubas Uogintas & Roberto Maldonado",
                 "illustration_pan_y": -400.0,
                 "flavor_text": "Die Stra\u00dfen des Gesch\u00e4ftsviertels f\u00fcgen sich harmonisch in die Landschaft des steilen Tals ein, in dem sich Dideldei und Dideldum bei ihrer Schlacht gegen\u00fcberstanden.",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "location",
@@ -877,7 +892,12 @@
                 "connections": "<copy>",
                 "illustration_pan_y": -400.0,
                 "flavor_text": "<valign>Das Gesch\u00e4ftsviertel kehrt in einen einsamen Zustand zur\u00fcck. Trotz des Chaos im Rest der Stadt ist es nachts nicht weniger verlassen.",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "7",
             "project_number": "205",
@@ -904,7 +924,12 @@
                 ],
                 "illustrator": "Illus. Cristi Balanescu & Jeremy Paillotin",
                 "illustration_pan_y": -550.0,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "location",
@@ -921,7 +946,12 @@
                 "subtitle": "In ruhigem Fahrwasser",
                 "flavor_text": "<valign>Das Wasser des Miskatonic ist zur\u00fcckgegangen, doch die Oberfl\u00e4che sch\u00e4umt noch immer bei jeder Ersch\u00fctterung der Realit\u00e4t.",
                 "illustration_pan_y": -550.0,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "8",
             "project_number": "206",
@@ -950,7 +980,12 @@
                 "illustrator": "Illus. Cristi Balanescu & Clement Caubet",
                 "flavor_text": "Die stattliche Architektur des Franz\u00f6sischen Viertels verschmilzt mit kunstvollem Mauerwerk, das du vom Schloss der Herz-K\u00f6nigin kennst.",
                 "illustration_pan_y": 10.0,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "location",
@@ -967,7 +1002,12 @@
                 "connections": "<copy>",
                 "illustration_pan_y": 10.0,
                 "flavor_text": "<valign>Das Franz\u00f6sische Viertel erstrahlt wieder in seiner gewohnten Pracht, auch wenn seine Mansardend\u00e4cher unter dem Grollen, das durch die ganze Stadt hallt, klappern.",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "10",
             "project_number": "208",
@@ -996,7 +1036,12 @@
                 ],
                 "illustrator": "Illus. Nele Diel & Alex van der Linde",
                 "flavor_text": "Die W\u00e4lder vor Arkham drehen und winden sich in seltsame Formen, die dich an den so viel seltsameren tulgen Wald erinnern.",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "location",
@@ -1010,7 +1055,12 @@
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "flavor_text": "<valign>Die W\u00e4lder von Arkham entwirren sich wieder zu einer vertrauten, aber immer noch unheilvollen Form, was dir nur wenig Seelenfrieden gew\u00e4hrt.",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "11",
             "project_number": "209",
@@ -1040,7 +1090,12 @@
                 "illustrator": "Illus. Jokubas Uogintas & Abigail Larson",
                 "illustration_pan_y": -320.0,
                 "flavor_text": "Die ruhigen Stra\u00dfen der S\u00fcdstadt sind \u00fcbers\u00e4t mit Besteck, Geschirr und angebissenen Leckereien vom Tisch der Teegesellschaft.",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "location",
@@ -1057,7 +1112,12 @@
                 "connections": "<copy>",
                 "illustration_pan_y": -320.0,
                 "flavor_text": "<valign>Die S\u00fcdstadt liegt wieder einmal in ruhiger Abgeschiedenheit, ganz im Gegensatz zum brodelnden Chaos, das sich n\u00f6rdlich davon abspielt.",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "12",
             "project_number": "210",
@@ -1130,7 +1190,12 @@
                 "illustrator": "Illus. Jokubas Uogintas",
                 "flavor_text": "In der Nordstadt sind noch immer Spuren des fr\u00fcheren Chaos zu sp\u00fcren. Sie k\u00f6nnten der Schl\u00fcssel dazu sein, die Verbindung zum Wunderland endg\u00fcltig zu unterbrechen.",
                 "illustration_pan_y": 0.0,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>      <exn>"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "location_back",
@@ -1171,7 +1236,12 @@
                 "illustration_pan_x": -2223.0,
                 "illustration_pan_y": 775.0,
                 "illustration_scale": 2.72,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi><exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "enemy",
@@ -1192,7 +1262,12 @@
                 "illustration_pan_y": 775.0,
                 "illustration_scale": 2.72,
                 "illustration_pan_x": -2223.0,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi><exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "17",
             "project_number": "215",
@@ -1219,7 +1294,12 @@
                 "illustration_pan_y": 775.0,
                 "illustration_pan_x": -2223.0,
                 "illustration_scale": 2.72,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi><exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "enemy",
@@ -1240,7 +1320,12 @@
                 "illustration_pan_y": 775.0,
                 "illustration_pan_x": -2223.0,
                 "illustration_scale": 2.72,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi><exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "18",
             "project_number": "216",
@@ -1267,7 +1352,12 @@
                 "illustration_pan_y": 775.0,
                 "illustration_pan_x": -2223.0,
                 "illustration_scale": 2.72,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi><exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "enemy",
@@ -1288,7 +1378,12 @@
                 "illustration_pan_y": 775.0,
                 "illustration_pan_x": -2223.0,
                 "illustration_scale": 2.72,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi><exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "19",
             "project_number": "217",
@@ -1315,7 +1410,12 @@
                 "illustration_pan_x": -2223.0,
                 "illustration_scale": 2.72,
                 "health": "<dash>",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi><exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "enemy",
@@ -1336,7 +1436,12 @@
                 "illustration_pan_y": 775.0,
                 "illustration_pan_x": -2223.0,
                 "illustration_scale": 2.72,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi><exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "20",
             "project_number": "218",
@@ -1363,7 +1468,12 @@
                 "illustration_pan_x": -2223.0,
                 "illustration_scale": 2.72,
                 "subtitle": "Vollgestopfter Traumfresser",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi><exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "enemy",
@@ -1384,7 +1494,12 @@
                 "illustration_pan_y": 775.0,
                 "illustration_pan_x": -2223.0,
                 "illustration_scale": 2.72,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi><exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "21",
             "project_number": "219",
@@ -1800,7 +1915,12 @@
                     }
                 ],
                 "difficulty": "EINFACH/NORMAL",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi> <exn>"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "chaos",
@@ -1844,7 +1964,12 @@
                 "illustrator": "Illus. Mark Molnar",
                 "flavor_text": "Das Sanatorium hat nicht den besten Ruf, was die<br>Heilung seiner Patienten angeht. Du hoffst, dass du Alice hier nicht lange zur\u00fccklassen musst.",
                 "illustration_pan_y": 100.0,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "location",
@@ -1860,7 +1985,12 @@
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_pan_y": 100.0,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "7",
             "project_number": "7",
@@ -1886,7 +2016,12 @@
                     "circle"
                 ],
                 "illustrator": "Illus. Unknown",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "location",
@@ -1904,7 +2039,12 @@
                 "connections": "<copy>",
                 "illustration_scale": 3.0,
                 "illustration_pan_x": -150.0,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "8",
             "project_number": "8",
@@ -1934,7 +2074,12 @@
                 "illustration_pan_x": -166.0,
                 "illustration_pan_y": 40.0,
                 "illustration_scale": 3.6,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "location",
@@ -1958,7 +2103,12 @@
                 "illustration_pan_x": -52.0,
                 "illustration_pan_y": 42.0,
                 "illustration_scale": 3.58,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "9",
             "project_number": "9",
@@ -1986,7 +2136,12 @@
                 ],
                 "illustrator": "Illus. Rowena Wang",
                 "illustration_pan_x": -500.0,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "location",
@@ -2009,7 +2164,12 @@
                 ],
                 "level": "0",
                 "illustration_pan_x": -500.0,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "10",
             "project_number": "10",
@@ -2034,7 +2194,12 @@
                     "t"
                 ],
                 "illustrator": "Illus. Anthony Devine",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "location",
@@ -2053,7 +2218,12 @@
                     "t"
                 ],
                 "name": "Rarit\u00e4tenladen",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "11",
             "project_number": "11",
@@ -2079,7 +2249,12 @@
                 ],
                 "illustrator": "Illus. Mark Molnar",
                 "illustration_pan_y": -200.0,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "location",
@@ -2099,7 +2274,12 @@
                 ],
                 "name": "<name>",
                 "illustration_pan_y": -200.0,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "12",
             "project_number": "12",
@@ -2755,7 +2935,11 @@
                 "text": "",
                 "connection": "<copy>",
                 "connections": "<copy>",
+<<<<<<< Updated upstream
                 "flavor_text": "<valign>Die Korallen in diesem Teil der K\u00fcste schl\u00e4ngeln sich in komplizierten Schleifen um sich selbst herum, die kaum m\u00f6glich erscheinen.",
+=======
+                "flavor_text": "<valign>Die Korallen in diesem Teil der K\u00fcste<br>schl\u00e4ngeln sich in komplizierten Schleifen um sich selbst herum, die kaum m\u00f6glich erscheinen.",
+>>>>>>> Stashed changes
                 "illustration": "./images/expanded_images/Environment - Sandra Winther 1.jpg",
                 "collection_icon": "<exi>",
                 "collection_number": ""
@@ -5766,8 +5950,13 @@
                 "victory": "",
                 "traits": "",
                 "text": "<i>Zuletzt f\u00e4llt deine Aufmerksamkeit auf den B\u00e4cker, der unb\u00e4ndig schreit und wild mit den Armen wedelt. \u201eHier ist ein Schlarg! Juch! Jach! Endlich ist unsere Beute in Sicht!\u201c Die Meldung des B\u00e4ckers klingt zu sch\u00f6n, um wahr zu sein. Da du den Rest des tulgen Waldes bereits durchk\u00e4mmt hast, k\u00f6nnte die Behauptung des B\u00e4ckers glaubw\u00fcrdig sein - wenn hier \u00fcberhaupt ein Schlarg zu finden ist.</i>\n<for> Wenn sich genau 1 Ort ohne Horror im Spiel befindet: Drehe diese Karte um und bringe sie ins Spiel.",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a",
                 "collection_icon": "<project.icon>"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<image src=\"C:\\alice\\alice_git\\images\\Alice in Wonderland.png\">  <exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "enemy",
@@ -5800,8 +5989,13 @@
                 "victory": "",
                 "traits": "",
                 "text": "<i>\u201eDer Schlarg hat sich aus dem Staub gemacht\u201c, erkl\u00e4rt der Metzger. \u201eWir haben ihn verscheucht, und so muss er zu seinem Rudel zur\u00fcckgekehrt sein.\u201c Du kannst dich nicht daran erinnern, dass Schlargs gesellige Wesen sind, aber du wirst von einem Durcheinander seltsamer Ger\u00e4usche zu einem nahe gelegenen W\u00e4ldchen gelockt.</i>\n<for> Wenn sich genau 2 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel.",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a",
                 "collection_icon": "<project.icon>"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<image src=\"C:\\alice\\alice_git\\images\\Alice in Wonderland.png\">  <exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "location",
@@ -5823,7 +6017,12 @@
                     "star"
                 ],
                 "illustration_pan_y": 200.0,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "22",
             "project_number": "135",
@@ -5837,8 +6036,13 @@
                 "victory": "",
                 "traits": "",
                 "text": "<i>\u201eDurchs dichte Geh\u00f6lz nagte ich mich, aber vom Schlarg ist keine Spur,\" murrt der Biber, \u201eer muss sich noch tiefer im Unterholz verstecken.\u201c Der Wald ist ohnehin schon voller Gefahren, aber auf Dr\u00e4ngen des Bibers gehst du weiter in Richtung eines schattigen und abgelegenen Tals.</i>\n<for> Wenn sich genau 2 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel.",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a",
                 "collection_icon": "<project.icon>"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<image src=\"C:\\alice\\alice_git\\images\\Alice in Wonderland.png\">  <exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "location",
@@ -5859,7 +6063,12 @@
                     "slash",
                     "star"
                 ],
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "17",
             "project_number": "130",
@@ -5873,8 +6082,13 @@
                 "victory": "",
                 "traits": "",
                 "text": "<i>\u201eDer Schlarg muss an einem tiefen, einsamen Ort sein\u201c, spekuliert der Barrister, \u201esonst h\u00e4tte er auf meine Vorladung zu Gericht reagiert.\u201c Du bist dir nicht sicher, ob der Schlarg \u00fcberhaupt lesen kann, aber die seltsamen Ger\u00e4usche, die aus einer nahe gelegenen H\u00f6hle dringen, sind Grund genug, sie zu durchsuchen.</i>\n<for> Wenn sich genau 2 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel.",
+<<<<<<< Updated upstream
                 "collection_icon": "<project.icon>",
                 "collection_number": "<exn>a"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<image src=\"C:\\alice\\alice_git\\images\\Alice in Wonderland.png\">  <exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "location",
@@ -5898,7 +6112,12 @@
                 "illustration_scale": 1.2,
                 "illustration_pan_x": -50.0,
                 "illustration_pan_y": 100.0,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "16",
             "project_number": "129",
@@ -5914,8 +6133,13 @@
                 "traits": "",
                 "text": "<i>\u201eDer Schlarg widersteht allen Bestechungs-<br>versuchen\u201c, sinniert der Bankier, \u201eund muss daher an einer Schotterbank zu finden sein.\u201c Du bezweifelst den Zusammenhang, aber die nassen Fu\u00dfspuren, die du am Flussufer findest, sind Beweis genug, um die Jagd hier fortzusetzen.</i>\n<for> Wenn sich genau 2 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel.",
                 "name": "<name>",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a",
                 "collection_icon": "<project.icon>"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<image src=\"C:\\alice\\alice_git\\images\\Alice in Wonderland.png\">  <exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "location",
@@ -5936,7 +6160,12 @@
                     "slash",
                     "star"
                 ],
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "15",
             "project_number": "128",
@@ -5951,8 +6180,13 @@
                 "victory": "",
                 "traits": "",
                 "text": "<i>\u201eEs hat unseren Impuls aufgegriffen\u201c beklagt sich der Billard-Mark\u00f6r, w\u00e4hrend er sich die H\u00e4nde abwischt, \u201eund deshalb wird es Kreide brauchen, um die Spitze zu best\u00e4uben, vermutlich von irgendwo aus den Felsen.\u201c Seine Theorie scheint bestenfalls weit hergeholt, aber man kann die Spur aus wei\u00dfem Pulver, die den Felsen hinunterf\u00fchrt, nicht leugnen.</i>\n<for> Wenn sich genau 3 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel.",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a",
                 "collection_icon": "<project.icon>"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<image src=\"C:\\alice\\alice_git\\images\\Alice in Wonderland.png\">  <exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "location",
@@ -5973,7 +6207,12 @@
                     "moon"
                 ],
                 "flavor_text": "Die F\u00e4hrte des Billard-Mark\u00f6rs zwingt dich, <br>eine riesige Schlucht zu \u00fcberqueren.",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "18",
             "project_number": "131",
@@ -5987,8 +6226,13 @@
                 "victory": "",
                 "traits": "",
                 "text": "<i>\u201eWir m\u00fcssen von oben nach unten alles absuchen\u201c, erkl\u00e4rt der B\u00f6rsenmakler, \u201eaber beginnen wir unten, zum Wohle unserer Aktien.\u201c Obwohl diese Pr\u00e4misse dir fragw\u00fcrdig scheint, f\u00fchrt sie dich zu Spuren in weichem Schlamm und geknickten Pflanzen, die darauf hindeuten, dass hier vor kurzem ein Tier vorbeigekommen ist.</i>\n<for> Wenn sich genau 3 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel.",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a",
                 "collection_icon": "<project.icon>"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<image src=\"C:\\alice\\alice_git\\images\\Alice in Wonderland.png\">  <exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "location",
@@ -6009,7 +6253,12 @@
                     "slash",
                     "moon"
                 ],
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "21",
             "project_number": "134",
@@ -6023,8 +6272,13 @@
                 "victory": "",
                 "traits": "",
                 "text": "<i>\u201eEs gibt nichts, was dieses Biest zufriedenstellen k\u00f6nnte!\u201c, verzweifelt der Hutmacher. \u201eWenn es keinen Hut tragen will, muss es wohl drinnen leben!\u201c Du h\u00e4ltst dich mit einer Antwort zur\u00fcck, aber das Echo eines seltsamen Tieres aus einer abgelegenen H\u00f6hle l\u00e4sst dich umdenken.</i>\n<for> Wenn sich genau 3 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel.",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a",
                 "collection_icon": "<project.icon>"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<image src=\"C:\\alice\\alice_git\\images\\Alice in Wonderland.png\">  <exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "location",
@@ -6045,7 +6299,12 @@
                     "slash",
                     "moon"
                 ],
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "19",
             "project_number": "132",
@@ -6059,8 +6318,13 @@
                 "victory": "",
                 "traits": "",
                 "text": "<i>\u201eWir haben uns bei dieser Verfolgung die Sohlen abgelaufen\u201c, murrt der Bootblack und starrt auf ein Loch in seinem Schuh. \u201eUnd doch hat der Schlarg seine eigenen Schuhe nicht abgenutzt. Er muss stattdessen klettern!\u201c Diese Vermutung erscheint dir nicht ganz richtig, aber du erkennst eine Bewegung an einer nahe gelegenen Klippe.</i>\n<for> Wenn sich genau 3 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel.",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a",
                 "collection_icon": "<project.icon>"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<image src=\"C:\\alice\\alice_git\\images\\Alice in Wonderland.png\">  <exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "location",
@@ -6082,7 +6346,12 @@
                 ],
                 "flavor_text": "Die Route des Stiefelputzers f\u00fchrt dich zu einem kleinen Felsvorsprung an einer steilen Felswand.",
                 "illustration_pan_y": 30.0,
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>     <exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "20",
             "project_number": "133",
@@ -7047,7 +7316,12 @@
                 "illustration_pan_y": -152.0,
                 "illustration_scale": 2.28,
                 "sanity": "<dash>",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi><exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "asset",
@@ -7068,7 +7342,12 @@
                 "illustration_pan_x": -1017.0,
                 "illustration_pan_y": -152.0,
                 "level": "None",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi><exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "17",
             "project_number": "164",
@@ -7097,7 +7376,12 @@
                 "illustration_pan_y": -100.0,
                 "illustration_pan_x": -70.0,
                 "sanity": "<dash>",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi><exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "asset",
@@ -7118,7 +7402,12 @@
                 "illustration_pan_x": -70.0,
                 "illustration_pan_y": -100.0,
                 "level": "None",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi><exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "18",
             "project_number": "165",
@@ -9225,7 +9514,12 @@
                 "classes": [
                     "neutral"
                 ],
+<<<<<<< Updated upstream
                 "collection_number": "<exn>a"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi><exn>a"
+>>>>>>> Stashed changes
             },
             "back": {
                 "type": "asset",
@@ -9243,7 +9537,12 @@
                 "level": "None",
                 "name": "<unique><name>",
                 "flavor_text": "\u201eWenn du nicht wei\u00dft, wohin du gehen willst,<br>dann spielt es keine Rolle, welchen Weg du einschl\u00e4gst.\u201c",
+<<<<<<< Updated upstream
                 "collection_number": "<exn>b"
+=======
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi><exn>b"
+>>>>>>> Stashed changes
             },
             "encounter_number": "1",
             "project_number": "263",
