@@ -1070,7 +1070,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Arkham.",
-                "text": "<for> Nachdem dir eine Fertigkeitsprobe in der Oststadt um 2 oder mehr misslungen ist: Nimm 1 Schaden oder 1 Horror.\n<action>: <b>Aufgeben.</b> Es gibt keine Hoffnung, Gurathnaka zur\u00fcckzuschlagen, aber vielleicht gibt es noch einen Weg, dich selbst zu retten.",
+                "text": "<for> Nachdem dir eine Fertigkeitsprobe in der Oststadt um 2 oder mehr misslungen ist: Nimm 1 Schaden oder 1 Horror.\n<action>: <b>Aufgeben.</b> Es gibt keine Hoffnung, Gurathnaka zur\u00fcck-<br>zuschlagen, aber vielleicht gibt es noch einen Weg, dich selbst zu retten.",
                 "victory": "Sieg 1.",
                 "illustration": "./images/expanded_images/Easttown - Jokubas Uogintas.jpg",
                 "clues": "0",
@@ -1157,7 +1157,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Verk\u00fcmmerter Traumfresser",
                 "traits": "Gro\u00dfer Alter. Schatten. Elite.",
-                "text": "Gewaltig.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durch-<br>f\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs- oder Entkommen-Versuches gegen Gurathnaka verwenden.",
+                "text": "Gewaltig.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durch-<br>f\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs- oder Entkommen-Versuchs gegen Gurathnaka verwenden.",
                 "evade": "1",
                 "attack": "1",
                 "damage": 2,
@@ -1206,7 +1206,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Abgezehrter Traumfresser",
                 "traits": "Gro\u00dfer Alter. Schatten. Elite.",
-                "text": "Gewaltig. Zur\u00fcckschlagen.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durch-<br>f\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs- oder Entkommen-Versuches gegen Gurathnaka verwenden.",
+                "text": "Gewaltig. Zur\u00fcckschlagen.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durch-<br>f\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs- oder Entkommen-Versuchs gegen Gurathnaka verwenden.",
                 "evade": "2",
                 "attack": "2",
                 "damage": 2,
@@ -1254,7 +1254,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Hei\u00dfhungriger Traumfresser",
                 "traits": "Gro\u00dfer Alter. Schatten. Elite.",
-                "text": "Gewaltig. Zur\u00fcckschlagen.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durch-<br>f\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs- oder Entkommen-Versuches gegen Gurathnaka verwenden.",
+                "text": "Gewaltig. Zur\u00fcckschlagen.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durch-<br>f\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs- oder Entkommen-Versuchs gegen Gurathnaka verwenden.",
                 "evade": "3",
                 "attack": "3",
                 "damage": 2,
@@ -1302,7 +1302,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Ges\u00e4ttigter Traumfresser",
                 "traits": "Gro\u00dfer Alter. Schatten. Elite.",
-                "text": "Gewaltig. Zur\u00fcckschlagen. Alarmiert.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durch-<br>f\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs- oder Entkommen-Versuches gegen Gurathnaka verwenden.",
+                "text": "Gewaltig. Zur\u00fcckschlagen. Alarmiert.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durch-<br>f\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs- oder Entkommen-Versuchs gegen Gurathnaka verwenden.",
                 "evade": "4",
                 "attack": "4",
                 "damage": "2",
@@ -1349,7 +1349,7 @@
                 "type": "enemy",
                 "title": "<unique> <name>",
                 "traits": "Gro\u00dfer Alter. Schatten. Elite.",
-                "text": "Gewaltig. Zur\u00fcckschlagen. Alarmiert.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durch-<br>f\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs- oder Entkommen-Versuches gegen Gurathnaka verwenden.",
+                "text": "Gewaltig. Zur\u00fcckschlagen. Alarmiert.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durch-<br>f\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs- oder Entkommen-Versuchs gegen Gurathnaka verwenden.",
                 "evade": "5",
                 "attack": "5",
                 "damage": 3,
@@ -1425,7 +1425,7 @@
                 "type": "location",
                 "subtitle": "Das Ende ist in Sicht",
                 "traits": "Arkham. Schatten.",
-                "text": "<reaction> Nachdem du erfolgreich in der inhaltslosen Leere ermittelt hast: Entdecke 1 zus\u00e4tzlichen Hinweis an diesem Ort.",
+                "text": "<reaction> Nachdem du erfolgreich in der inhalts-<br>losen Leere ermittelt hast: Entdecke 1 zus\u00e4tzlichen Hinweis an diesem Ort.",
                 "victory": "Sieg 1.",
                 "illustration": "./images/expanded_images/Arkham - Tomasz Jedruszek and TheKayeman.jpg",
                 "clues": "0",
@@ -1471,7 +1471,6 @@
                 "type": "treachery",
                 "traits": "Makel.",
                 "text": "<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\nErmittler <i>(inklusive Alice)</i> k\u00f6nnen w\u00e4hrend der Unterhaltsphase keine Karten ziehen.\nAls zus\u00e4tzliche Kosten, um eine Ziehen-Aktion zu nehmen, nimm 1 Horror.\n<for> Am Ende der Runde: Lege 1 Kopie von <name> aus dem Spiel ab. (Max. 1 Mal pro Runde.)",
-                "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Miscellaneous - Rael Brian.jpg",
                 "illustrator": "Illus. Rael Brian",
@@ -1491,7 +1490,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Makel.",
-                "text": "<rev> Falls sich keine Schw\u00e4chen auf Alices Hand befinden, erh\u00e4lt <name> Nachr\u00fcsten.\nF\u00fcr jede Schw\u00e4che in Alices Hand nimmt Alice 1 Schaden oder 1 Horror.\nF\u00fcr jede Kopie von Belastende Schatten in ihrer Hand nimmt Alice 1 zus\u00e4tzlichen Horror.",
+                "text": "<rev> Falls sich keine Schw\u00e4chen auf Alices Hand befinden, erh\u00e4lt <name> Nachr\u00fcsten.\nF\u00fcr jede Schw\u00e4che in Alices Hand nimmt Alice <br>1 Schaden oder 1 Horror.\nF\u00fcr jede Kopie von Belastende Schatten in ihrer Hand nimmt Alice 1 zus\u00e4tzlichen Horror.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Miscellaneous - George Grie.jpg",
@@ -1514,7 +1513,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Abscheulichkeit. Schatten. Elite.",
-                "text": "Gewaltig.\nDer Ort der Lebenden Verfinsterung bekommt +2 Schleier. Jeder verbundene Ort erh\u00e4lt +1 Schleier.",
+                "text": "Gewaltig.\nDer Ort der lebenden Verfinsterung bekommt +2 Schleier. Jeder verbundene Ort erh\u00e4lt +1 Schleier.",
                 "health": "4",
                 "evade": "4",
                 "attack": "5",
@@ -1540,7 +1539,7 @@
             "front": {
                 "type": "enemy",
                 "traits": "Abscheulichkeit. Schatten.",
-                "text": "Zur\u00fcckhaltend. \n<spawn> Am weitesten von allen Ermittlern entfernter Ort.\n<for> Am Ende der Gegnerphase, falls <name> nicht in einen Kampf verwickelt ist: Platziere 1 Verderben auf <name>.",
+                "text": "Zur\u00fcckhaltend. \n<spawn> Am weitesten von allen Ermittlern entfernter Ort.\n<for> Am Ende der Gegnerphase, falls Schattenhafter Schlund nicht in einen Kampf verwickelt ist: Platziere 1 Verderben auf <name>.",
                 "flavor_text": "",
                 "illustration": "./images/expanded_images/Shadows - Toby Crow.jpg",
                 "illustrator": "Illus. Toby Crow",
@@ -6453,7 +6452,7 @@
             "name": "Die Kr\u00e4he ist's!",
             "front": {
                 "type": "act",
-                "text": "Dideldei und Dideldum erhalten: \u201e<action>: <b>Verhandlung.</b> Lege eine <willpower>- oder <intellect>-Probe (4) ab. Falls die Probe gelingt, platziere 1 Horror auf dieser Vorteilskarte.\u201d\n<obj> Falls sich Dideldei <i>(Be\u00e4ngstigter Bruder)</i> und Dideldum <i>(Be\u00e4ngstigter Bruder)</i> im Siegpunkte-<br>stapel befinden, r\u00fccke vor.",
+                "text": "Dideldei und Dideldum erhalten:<br> \u201e<action>: <b>Verhandlung.</b> Lege eine <willpower>- oder <intellect>-Probe (4) ab. Falls die Probe gelingt, platziere 1 Horror auf dieser Vorteilskarte.\u201d\n<obj> Falls sich Dideldei <i>(Be\u00e4ngstigter Bruder)</i> und Dideldum <i>(Be\u00e4ngstigter Bruder)</i> im Siegpunkte-<br>stapel befinden, r\u00fccke vor.",
                 "flavor_text": "Die Br\u00fcder geraten bereits in Panik, versuchen <br>aber dennoch, ihre Truppen zum Gefecht zu bewegen. Mit der dunklen Kr\u00e4he, die sich \u00fcber das Schlachtfeld hermacht, hast du das n\u00f6tige Werkzeug, um den Zwillingen etwas Vernunft einzubl\u00e4uen.",
                 "illustration": "./images/expanded_images/Environment - Jes\u00fas Campos Jim\u00e9nez.jpg",
                 "index": "3a",
@@ -7247,7 +7246,7 @@
                 "type": "act_back",
                 "name": "Rochade",
                 "victory": "",
-                "text": "\u00dcberpr\u00fcfe das Kampagnenlogbuch. \n<bullet> Falls <i>die Ermittler durch den Spiegel gegangen sind,</i>bringe den beiseitegelegten Gegner Der Rote K\u00f6nig <i>(Finsterer F\u00fcrst)</i> in der achten Reihe ins Spiel.\n<bullet> Ansonsten bringe den beiseitegelegten Gegner Der Rote K\u00f6nig <i>(D\u00fcsterer Despot)</i> in der achten Reihe ins Spiel.\nFalls die Rote K\u00f6nigin nicht im Spiel oder im Siegpunktestapel ist, erscheint sie in der achten Reihe.",
+                "text": "\u00dcberpr\u00fcfe das Kampagnenlogbuch. \n<bullet> Falls <i>die Ermittler durch den Spiegel gegangen sind,</i> bringe den beiseitegelegten Gegner Der Rote K\u00f6nig <i>(Finsterer F\u00fcrst)</i> in der achten Reihe ins Spiel.\n<bullet> Ansonsten bringe den beiseitegelegten Gegner Der Rote K\u00f6nig <i>(D\u00fcsterer Despot)</i> in der achten Reihe ins Spiel.\nFalls die Rote K\u00f6nigin nicht im Spiel oder im Siegpunktestapel ist, erscheint sie in der achten Reihe.",
                 "flavor_text": "Durch die wirbelnde Dunkelheit st\u00fcrmst du die Stufen des Roten Schlosses hinauf und st\u00fcrmst durch die imposanten Fl\u00fcgelt\u00fcren. Der Rote K\u00f6nig sitzt am anderen Ende eines gro\u00dfen Saals, tr\u00e4ge auf einem pr\u00e4chtigen, skelettartigen Thron. Er r\u00fchrt sich kein bisschen, als du eintrittst, und die Schatten, die aus seinem Mantel hervorquellen, werden immer dichter."
             },
             "encounter_number": "5",
@@ -7282,7 +7281,7 @@
             "name": "Er\u00f6ffnung",
             "front": {
                 "type": "agenda",
-                "text": "<t>Schach</t>-Gegner erhalten J\u00e4ger und <br>\u201e<spawn> Siebte Reihe oder Achte Reihe.\u201c\n<for> Sobald ein <t>Schach</t>-<br>Gegner sein Schl\u00fcsselwort J\u00e4ger abhandeln w\u00fcrde: Ziehe den Kampagnenleitfaden zurate, um zu bestimmen, wie sich der Gegner bewegt.",
+                "text": "<t>Schach</t>-Gegner erhalten J\u00e4ger und <br>\u201e<spawn> Siebte Reihe oder Achte Reihe.\u201c \n<for> Sobald ein <t>Schach</t>-<br>Gegner sein Schl\u00fcsselwort J\u00e4ger abhandeln w\u00fcrde: Ziehe den Kampagnenleitfaden zurate, um zu bestimmen, wie sich der Gegner bewegt.",
                 "flavor_text": "Deine Ankunft an der Front bewirkt Bewegung auf der anderen Seite des Spielbretts. Falls bis jetzt noch Waffenruhe eingehalten wurde, ist sie nun um.",
                 "illustration": "./images/expanded_images/Chess - Mihai-Ovidiu Juganaru.jpg",
                 "doom": "4",
@@ -7307,7 +7306,7 @@
             "name": "Gegengambit",
             "front": {
                 "type": "agenda",
-                "text": "<t>Schach</t>-Gegner erhalten J\u00e4ger und <br>\u201e<spawn> Siebte Reihe oder Achte Reihe.\u201c\n<for> Sobald ein <t>Schach</t> -Gegner sein Schl\u00fcsselwort J\u00e4ger abhandeln w\u00fcrde: Ziehe den Kampagnenleitfaden zurate, um zu bestimmen, wie sich der Gegner bewegt.",
+                "text": "<t>Schach</t>-Gegner erhalten J\u00e4ger und <br>\u201e<spawn> Siebte Reihe oder Achte Reihe.\u201c\n<for> Sobald ein <t>Schach</t>-<br>Gegner sein Schl\u00fcsselwort J\u00e4ger abhandeln w\u00fcrde: Ziehe den Kampagnenleitfaden zurate, um zu bestimmen, wie sich der Gegner bewegt.",
                 "illustration": "./images/expanded_images/Chess - Mihai-Ovidiu Juganaru.jpg",
                 "doom": "4",
                 "index": "2a",
@@ -7331,7 +7330,7 @@
             "name": "Besetzte Linien",
             "front": {
                 "type": "agenda",
-                "text": "<t>Schach</t>-Gegner erhalten J\u00e4ger und <br>\u201e<spawn> Siebte Reihe oder Achte Reihe.\u201c\n<for> Sobald ein <t>Schach</t> -Gegner sein Schl\u00fcsselwort J\u00e4ger abhandeln w\u00fcrde: Ziehe den Kampagnenleitfaden zurate, um zu bestimmen, wie sich der Gegner bewegt.",
+                "text": "<t>Schach</t>-Gegner erhalten J\u00e4ger und <br>\u201e<spawn> Siebte Reihe oder Achte Reihe.\u201c\n<for> Sobald ein <t>Schach</t>-Gegner sein Schl\u00fcsselwort J\u00e4ger abhandeln w\u00fcrde: Ziehe den Kampagnenleitfaden zurate, um zu bestimmen, wie sich der Gegner bewegt.",
                 "illustration": "./images/expanded_images/Chess - Mihai-Ovidiu Juganaru.jpg",
                 "doom": "8",
                 "index": "3a",
@@ -7662,7 +7661,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Schach. Reihe. Schatten.",
-                "text": "<for> Nachdem du die siebte Reihe enth\u00fcllt hast: Durchsuche das Begegnungsdeck und den Ablagestapel nach einem <t>Schach</t>-Gegner, der an diesem Ort erscheint. Mische das Begegnungsdeck.",
+                "text": "<for> Nachdem du die siebte Reihe enth\u00fcllt hast: Durchsuche das Begegnungsdeck und den Ablage-<br>stapel nach einem <t>Schach</t>-Gegner, der an diesem Ort erscheint. Mische das Begegnungsdeck.",
                 "flavor_text": "Es f\u00e4llt dir schwer, nicht den Halt zu verlieren, w\u00e4hrend du dir deinen Weg durch die d\u00fcstere Landschaft und durch die durchbrochenen Verteidigungslinien der roten Schachfiguren bahnst.",
                 "victory": "Sieg 1.",
                 "illustration": "./images/expanded_images/Castle - James Wolf.jpg",
@@ -7885,7 +7884,9 @@
                 "level": "None",
                 "illustration_pan_y": -250.0,
                 "illustration_scale": 1.8,
-                "illustration_pan_x": -150.0
+                "illustration_pan_x": -150.0,
+                "name": "<unique>Der Wei\u00dfe K\u00f6nig",
+                "cost": "<dash>"
             },
             "back": {
                 "type": "encounter"
@@ -8051,7 +8052,9 @@
                     "neutral"
                 ],
                 "illustration_pan_x": 0.0,
-                "illustration_pan_y": 236.0
+                "illustration_pan_y": 236.0,
+                "cost": "<dash>",
+                "name": "<unique>Der Wei\u00dfe Springer"
             },
             "back": {
                 "type": "encounter"
@@ -8128,7 +8131,7 @@
                     ],
                     [
                         "<b>Deckbau-Voraussetzungen</b>:",
-                        "Konsultiere den Abschnitt Alices Unterst\u00fctzung im Kampagnenleitfaden, um Alices Deck zu erstellen. Alle Karten werden durch vergangene Entscheidungen der Ermittler im Laufe der Kampagne bestimmt."
+                        "Konsultiere den Abschnitt Alices Unterst\u00fctzung im Kampagnenleitfaden, um Alices Deck zu erstellen. Alle Karten werden durch ver-<br>gangene Entscheidungen der Ermittler im Laufe der Kampagne bestimmt."
                     ],
                     [
                         "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
@@ -8143,7 +8146,7 @@
                         "Alice kann nur im Szenario Klarer Albtraum gespielt werden."
                     ]
                 ],
-                "text": "<b>Deckgr\u00f6\u00dfe</b>: 24\n<b>Deckbau-Voraussetzungen</b>: Konsultiere den Abschnitt Alices Unterst\u00fctzung im Kampagnenleitfaden, um Alices Deck zu erstellen. Alle Karten werden durch vergangene Entscheidungen der Ermittler im Laufe der Kampagne bestimmt.\n<b>Zus\u00e4tzliche Voraussetzungen</b>: Alice kann nur im Szenario Klarer Albtraum gespielt werden.",
+                "text": "<b>Deckgr\u00f6\u00dfe</b>: 24\n<b>Deckbau-Voraussetzungen</b>: Konsultiere den Abschnitt Alices Unterst\u00fctzung im Kampagnenleitfaden, um Alices Deck zu erstellen. Alle Karten werden durch ver-<br>gangene Entscheidungen der Ermittler im Laufe der Kampagne bestimmt.\n<b>Zus\u00e4tzliche Voraussetzungen</b>: Alice kann nur im Szenario Klarer Albtraum gespielt werden.",
                 "classes": [
                     "neutral"
                 ],
@@ -8818,7 +8821,7 @@
                 "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Nachdem einer <t>Verb\u00fcndeter</t>-Vorteilskarte Schaden oder Horror zugewiesen wurde: Besiege diese  <t>Verb\u00fcndeter</t>-<br>Vorteilskarte.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
-                "flavor_text": "\u201eDoch wei\u00df ich nun eben: K\u00e4me jemals im Leben ein Buhmalm mir einst zu Gesicht, w\u00e4r' ich binnen Sekunden und lautlos verschwunden!Dieses Wissen ertrage ich nicht!\u201c",
+                "flavor_text": "\u201eDoch wei\u00df ich nun eben: K\u00e4me jemals im Leben ein Buhmalm mir einst zu Gesicht, w\u00e4r' ich binnen Sekunden und lautlos verschwunden! Dieses Wissen ertrage ich nicht!\u201c",
                 "victory": "",
                 "classes": [
                     "weakness"
@@ -9032,7 +9035,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Wunderland. Humanoid. Karte. Soldat.",
-                "text": "<for> Nachdem dich die Kreuz-Kartenwache angegriffen hat: Lege 1 Karte mit mindestens einem <combat>-Fertigkeitssymbol von deiner Hand ab.  Falls du dies nicht kannst, nimm 1 Horror.",
+                "text": "<for> Nachdem dich die Kreuz-Kartenwache angegriffen hat: Lege 1 Karte mit mindestens einem <combat>-Fertigkeitssymbol von deiner Hand ab. Falls du dies nicht kannst, nimm 1 Horror.",
                 "health": "3",
                 "evade": "2",
                 "attack": "3",
@@ -9559,7 +9562,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Paradox.",
-                "text": "<rev> Lege eine <int>-Probe (5) ab. \u00c4ndere \u201e-\u201d auf Chaosmarkern in \u201e+\u201d, und \u201e+\u201d auf Chaosmarkern in \u201e-\u201d. Symbole, die du zu dieser Probe beitr\u00e4gst, werden stattdessen von deinem F\u00e4higkeitswert abgezogen. Falls die Probe gelingt, verlierst du 1 Aktion. Falls die Probe um 2 oder mehr gelingt, nimmst du 1 Horror.",
+                "text": "<rev> Lege eine <int>-Probe (5) ab. \u00c4ndere \u201e-\u201d auf Chaosmarkern in \u201e+\u201d, und \u201e+\u201d auf Chaos-<br>markern in \u201e-\u201d. Symbole, die du zu dieser Probe beitr\u00e4gst, werden stattdessen von deinem Fertig-<br>keitswert abgezogen. Falls die Probe gelingt, verlierst du 1 Aktion. Falls die Probe um 2 oder mehr gelingt, nimmst du 1 Horror.",
                 "flavor_text": "Woanders w\u00fcrde man sich den Erfolg w\u00fcnschen.",
                 "victory": "",
                 "illustration": "./images/expanded_images/Miscellaneous - Jorgo.jpg",
@@ -9579,7 +9582,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Komplott. Aufgabe.",
-                "text": "<rev> Bringe <name> neben der Agenda ins Spiel.\n<for> Falls Verderben auf einer anderen Karte platziert wird <i>(auch der Agenda)</i>: Platziere 1 Verderben auf <name> (nur ein Mal pro Phase).\n<act>: Lege eine <int>-Probe (4) ab. Senke die Schwierigkeit dieser Probe um 1 f\u00fcr jedes Verderben auf <name>. Falls die Probe gelingt, lege <name> ab.",
+                "text": "<rev> Bringe <name> neben der Agenda ins Spiel.\n<for> Falls Verderben auf einer anderen Karte platziert wird <i>(auch der Agenda)</i>: Platziere 1 Verderben auf <name> (nur ein Mal pro Phase).\n<act>: Lege eine <int>-Probe (4) ab. Senke die Schwierigkeit dieser Probe um 1 f\u00fcr jedes Verderben auf Knobel-<br>aufgabe. Falls die Probe gelingt, lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Puzzle - Luis Alfonso.jpg",
@@ -9642,7 +9645,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Paradox. Makel.",
-                "text": "<rev> Falls du keine Hinweise kontrollierst, erh\u00e4lt <name> Nachr\u00fcsten. Ansonsten lege eine <int>-Probe (2) ab. Die Schwierigkeit dieser Probe ist um 1 erh\u00f6ht f\u00fcr jeden Hinweis, den du kontrollierst (maximal +3). Falls die Probe misslingt, platziere 1 deiner Hinweise auf deinem Ort. Falls die Probe um 2 oder mehr misslingt, verlierst du 1 Aktion.",
+                "text": "<rev> Falls du keine Hinweise kontrollierst,<br> erh\u00e4lt <name> Nachr\u00fcsten. Ansonsten lege eine <int>-Probe (2) ab. Die Schwierigkeit dieser Probe ist um 1 erh\u00f6ht f\u00fcr jeden Hinweis, den du kontrollierst (maximal +3). Falls die Probe misslingt, platziere 1 deiner Hinweise auf deinem Ort. Falls die Probe um 2 oder mehr misslingt, verlierst du 1 Aktion.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Miscellaneous - Edward Honaker.jpg",
@@ -9686,7 +9689,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Paradox.",
-                "text": "<rev> Lege Karten von deiner Hand oder aus dem Spiel ab, deren gesamte Kosten gleich oder gr\u00f6\u00dfer dem Schleierwert deines Ortes sind. Falls du das nicht kannst, nimm 1 Schaden und 1 Horror.",
+                "text": "<rev> Lege Karten von deiner Hand oder aus dem Spiel ab, deren gesamte Kosten gleich oder gr\u00f6\u00dfer dem Schleierwert deines Ortes sind. Falls du das nicht kannst, nimm <br>1 Schaden und 1 Horror.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Miscellaneous - Wendy Townrow.jpg",
@@ -9898,7 +9901,8 @@
                 "illustrator": "Illus. Scott Gustafson",
                 "name": "<unique><name>",
                 "level": "None",
-                "illustration_pan_y": -10.0
+                "illustration_pan_y": -10.0,
+                "cost": "<dash> "
             },
             "back": {
                 "type": "encounter"
@@ -9915,7 +9919,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Gescheiter Gelehrter",
                 "traits": "Wunderland. Kreatur. Gelehrter.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<reaction> Nachdem der letzte Hinweis von einem Ort entdeckt worden ist: Jeder Ermittler darf 1 Karte ziehen. Lege das Raupentier ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<reaction> Nachdem der letzte Hinweis von einem Ort entdeckt worden ist: Jeder Ermittler darf 1 Karte ziehen. Lege Das Raupentier ab.",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
@@ -9925,7 +9929,8 @@
                 "illustrator": "Illus. Shreya Shretty",
                 "level": "None",
                 "illustration_pan_y": -100.0,
-                "name": "<unique><name>"
+                "name": "<unique><name>",
+                "cost": "<dash> "
             },
             "back": {
                 "type": "encounter"
@@ -9942,7 +9947,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Kluges K\u00f6pfchen",
                 "traits": "Wunderland. Kreatur. Gelehrter.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<reaction> Sobald ein Ermittler einen <skull>-Marker enth\u00fcllt: Hebe jenen Marker auf. Enth\u00fclle keinen weiteren Marker. Lege Den Dodo ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<reaction> Sobald ein Ermittler einen <skull>-Marker enth\u00fcllt: Hebe jenen Marker auf. Enth\u00fclle keinen weiteren Marker. Lege Der Dodo ab.",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
@@ -9954,7 +9959,8 @@
                 "level": "None",
                 "illustration_pan_x": -34.0,
                 "illustration_pan_y": 164.0,
-                "illustration_scale": 1.06
+                "illustration_scale": 1.06,
+                "cost": "<dash> "
             },
             "back": {
                 "type": "encounter"
@@ -9983,7 +9989,8 @@
                 "illustration_pan_x": -68.0,
                 "illustration_pan_y": -128.0,
                 "illustration_scale": 1.14,
-                "name": "<unique><name>"
+                "name": "<unique><name>",
+                "cost": "<dash> "
             },
             "back": {
                 "type": "encounter"
@@ -10012,7 +10019,8 @@
                 "illustration_pan_x": -152.0,
                 "illustration_pan_y": -24.0,
                 "illustration_scale": 2.26,
-                "name": "<unique><size 69><name>"
+                "name": "<unique><size 69><name>",
+                "cost": "<dash> "
             },
             "back": {
                 "type": "encounter"
@@ -10038,7 +10046,8 @@
                 "illustration": "./images/expanded_images/Lion and Unicorn - Julie Dillon.jpg",
                 "illustrator": "Illus. Julie Dillon",
                 "level": "None",
-                "name": "<unique><name>"
+                "name": "<unique><name>",
+                "cost": "<dash> "
             },
             "back": {
                 "type": "encounter"
@@ -10065,7 +10074,8 @@
                 "illustrator": "Illus. Victoria Ying",
                 "level": "None",
                 "illustration_pan_y": 180.0,
-                "name": "<unique><name>"
+                "name": "<unique><name>",
+                "cost": "<dash> "
             },
             "back": {
                 "type": "encounter"
@@ -10144,8 +10154,7 @@
                 "type": "treachery",
                 "title": "<unique> <name>",
                 "traits": "Wahnsinn.",
-                "text": "Anwendungen (0 Geheimnisse). Falls sich 4 oder mehr Geheimnisse auf <name> befinden, lege es ab.\n<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\nSolange <name> im Spiel ist, ist dein Grund-<intellect>-<br>Fertigkeitswert X. X ist die Anzahl an Geheimnissen auf dieser Karte. \n<free> Bewege 1 Geheimnis von einer Vorteilskarte, die du kontrollierst, auf <name>. \n<for> Am Ende der Runde: Platziere 1 Geheimnis auf dieser Karte.",
-                "flavor_text": "",
+                "text": "Anwendungen (0 Geheimnisse). Falls sich 4 oder mehr Geheimnisse auf <name> befinden, lege es ab.\n<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\nSolange <name> im Spiel ist, ist dein Grund-<intellect>-<br>Fertigkeitswert X. X ist die Anzahl an Geheimnissen auf dieser Karte. \n<free> Bewege 1 Geheimnis von einer Vorteilskarte, die du kontrollierst, auf <name>. \n<for> Am Ende der Runde: Platziere 1 Geheimnis auf dieser Karte.\n",
                 "victory": "",
                 "classes": [
                     "weakness"
@@ -10154,7 +10163,8 @@
                 "illustrator": "Illus. Clement Caubet",
                 "illustration_pan_x": 14.0,
                 "illustration_pan_y": -510.0,
-                "illustration_scale": 3.0
+                "illustration_scale": 3.0,
+                "flavor_text": " "
             },
             "back": {
                 "type": "player"
@@ -10170,7 +10180,7 @@
                 "type": "asset",
                 "title": "<unique> <name>",
                 "traits": "Talent. Segen. Wahnsinn?",
-                "text": "Nur f\u00fcr das Deck von Alice Liddell.\n<free> W\u00e4hrend du eine Fertigkeitsprobe durchf\u00fchrst, ersch\u00f6pfe <name>: Du bekommst f\u00fcr diese Probe +X auf deinen Fertigkeitswert. X ist die gr\u00f6\u00dfte Anzahl an Geheimnissen auf einer Vorteilskarte, die du kontrollierst (bis zu einem Maximum von 4). Nachdem die Fertigkeitsprobe endet, entferne 1 Geheimnis von jener Vorteilskarte.",
+                "text": "Nur f\u00fcr das Deck von Alice Liddell.\n<free> W\u00e4hrend du eine Fertigkeitsprobe durchf\u00fchrst, ersch\u00f6pfe <name>: Du bekommst f\u00fcr diese Probe +X auf deinen Fertigkeitswert. X ist die gr\u00f6\u00dfte Anzahl an Geheimnissen auf einer Vorteilskarte, die du kontrollierst  (bis zu einem Maximum <br> von 4). Nachdem die Fertigkeitsprobe endet, entferne 1 Geheimnis von jener Vorteilskarte.",
                 "cost": "3",
                 "level": "None",
                 "flavor_text": "\u201eUnd woher willst du wissen, dass du verr\u00fcckt bist?\u201c",
@@ -10426,7 +10436,7 @@
             "front": {
                 "type": "location",
                 "traits": "Arkham.",
-                "text": "<for> Nachdem du eine Fertigkeitsprobe in der Innenstadt durchgef\u00fchrt hast, falls 3 oder mehr Fertigkeitssymbole beigetragen wurden: Nimm 1 Horror.",
+                "text": "<for> Nachdem du eine Fertigkeits-<br>probe in der Innenstadt durchgef\u00fchrt hast, falls 3 oder mehr Fertigkeitssymbole beigetragen wurden: Nimm 1 Horror.",
                 "victory": "Sieg 1.",
                 "illustration": "./images/expanded_images/Downtown - Jokubas Uogintas.jpg",
                 "clues": "0",
