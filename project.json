@@ -7886,7 +7886,7 @@
                 "illustration_scale": 1.8,
                 "illustration_pan_x": -150.0,
                 "name": "<unique>Der Wei\u00dfe K\u00f6nig",
-                "cost": "<dash>"
+                "cost": "---"
             },
             "back": {
                 "type": "encounter"
@@ -8053,7 +8053,7 @@
                 ],
                 "illustration_pan_x": 0.0,
                 "illustration_pan_y": 236.0,
-                "cost": "<dash>",
+                "cost": "---",
                 "name": "<unique>Der Wei\u00dfe Springer"
             },
             "back": {
@@ -9902,7 +9902,7 @@
                 "name": "<unique><name>",
                 "level": "None",
                 "illustration_pan_y": -10.0,
-                "cost": "<dash> "
+                "cost": "---"
             },
             "back": {
                 "type": "encounter"
@@ -9930,7 +9930,7 @@
                 "level": "None",
                 "illustration_pan_y": -100.0,
                 "name": "<unique><name>",
-                "cost": "<dash> "
+                "cost": "---"
             },
             "back": {
                 "type": "encounter"
@@ -9960,7 +9960,7 @@
                 "illustration_pan_x": -34.0,
                 "illustration_pan_y": 164.0,
                 "illustration_scale": 1.06,
-                "cost": "<dash> "
+                "cost": "---"
             },
             "back": {
                 "type": "encounter"
@@ -9990,7 +9990,7 @@
                 "illustration_pan_y": -128.0,
                 "illustration_scale": 1.14,
                 "name": "<unique><name>",
-                "cost": "<dash> "
+                "cost": "---"
             },
             "back": {
                 "type": "encounter"
@@ -10020,7 +10020,7 @@
                 "illustration_pan_y": -24.0,
                 "illustration_scale": 2.26,
                 "name": "<unique><size 69><name>",
-                "cost": "<dash> "
+                "cost": "---"
             },
             "back": {
                 "type": "encounter"
@@ -10047,7 +10047,7 @@
                 "illustrator": "Illus. Julie Dillon",
                 "level": "None",
                 "name": "<unique><name>",
-                "cost": "<dash> "
+                "cost": "--- "
             },
             "back": {
                 "type": "encounter"
@@ -10075,7 +10075,7 @@
                 "level": "None",
                 "illustration_pan_y": 180.0,
                 "name": "<unique><name>",
-                "cost": "<dash> "
+                "cost": "---"
             },
             "back": {
                 "type": "encounter"
