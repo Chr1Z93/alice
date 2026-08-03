@@ -1919,7 +1919,7 @@
                 "text": "<act>: Erhalte 2 Ressourcen. (Nur ein Mal pro Zug.)",
                 "flavor_text": "Die Bank n\u00e4hert sich ihrem Gesch\u00e4ftsschluss. Kunden und Schalterbeamte hoffen, dass sie ihre Gesch\u00e4fte schnell abwickeln k\u00f6nnen, trotz des Durcheinanders, das um das Geb\u00e4ude herum entstanden ist.",
                 "victory": "",
-                "illustration": "C:/alice/alice_git/images/Downtown - Cristi Balanescu.jpg",
+                "illustration": "./images/expanded_images/Downtown - Cristi Balanescu.jpg",
                 "clues": "1<per>",
                 "shroud": "3",
                 "connection": "circle",
@@ -1930,14 +1930,14 @@
                     "triangle"
                 ],
                 "illustrator": "Illus. Cristi Balanescu",
-                "illustration_pan_x": -166.0,
-                "illustration_pan_y": 40.0,
-                "illustration_scale": 3.6,
-                "collection_number": "<exn>a"
+                "illustration_pan_x": -2405.0,
+                "illustration_pan_y": -856.0,
+                "collection_number": "<exn>a",
+                "illustration_scale": 2.939
             },
             "back": {
                 "type": "location",
-                "illustration": "C:/alice/alice_git/images/Downtown - Cristi Balanescu & Jan Hein.jpg",
+                "illustration": "./images/expanded_images/Downtown - Cristi Balanescu & Jan Hein.jpg",
                 "illustrator": "Illus. Cristi Balanescu & Jan Hein",
                 "name": "Bank von Arkham",
                 "subtitle": "Instabiler Markt",
@@ -1954,9 +1954,9 @@
                     "quote",
                     "triangle"
                 ],
-                "illustration_pan_x": -52.0,
-                "illustration_pan_y": 42.0,
-                "illustration_scale": 3.58,
+                "illustration_pan_x": -2405.0,
+                "illustration_pan_y": -856.0,
+                "illustration_scale": 2.939,
                 "collection_number": "<exn>b"
             },
             "encounter_number": "9",
